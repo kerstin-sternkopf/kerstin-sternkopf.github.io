@@ -25,14 +25,14 @@ disqus_shortname: stefantaubert
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-#  primary: d0187a
-#  primary-rgb: "208,24,122"
-#  secondary: 0a9b9f
-#  secondary-dark: b8156c
-   primary: 2fed26
-   primary-rgb: "38,38,238"
-   secondary: 0a9b9f
-   secondary-dark: b8156c
+  primary: f91c92 #helllila
+  primary-rgb: "38,38,238" #blau
+  secondary: b8156c #lila
+  secondary-dark: 9c125b #dunkellila
+#   primary: 2fed26 #grün
+#   primary-rgb: "38,38,238" #blau
+#   secondary: 0a9b9f #türkis
+#   secondary-dark: b8156c #lila
 
 # Footer settings
 footer:
