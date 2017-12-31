@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: program.png
+alt: image-alt
+project-date: Januar 2018
+client: Start Bootstrap
+category: offers
+description: It's Party Time: Die größte Tupperparty der Welt! Tupperparty®-Angebote vom 1. Januar bis 4. Februar 2018
+---
