@@ -25,10 +25,10 @@ disqus_shortname: stefantaubert
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: d0187a #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary: d0187a #FD6E8A
+  secondary-dark: 0a9b9f #A2122F
 
 # Footer settings
 footer:
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com
+    url: https://www.facebook.com/kerstin.sternkopf.73
 
 # Postal address (add as many lines as necessary)
 address:
