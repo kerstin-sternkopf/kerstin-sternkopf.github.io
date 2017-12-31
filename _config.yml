@@ -1,6 +1,6 @@
 # Site settings
 title: Tupperware Sternkopf
-email: your-email@domain.com
+email: kerstin_sternkopf@web.de
 url: https://example.github.io
 description: "Tupperware Kreis Schwarzenberg"
 keywords: "your keywords, separated by commas"
@@ -48,11 +48,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Grünstädtel
-  - line: Schwarzenberg, Sachsen
+  - line: Schwarzenberg
+  - line: Sachsen
 
 # Credits content
-credits: 'Freelancer ist kostenlos benutzbar und ein Open Source Projekt von <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer ist kostenlos und ein Open Source Projekt von <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
