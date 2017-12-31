@@ -25,7 +25,7 @@ disqus_shortname: stefantaubert
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: dd1a82 #mittellila
+  primary: e61a87 #helllila
   primary-rgb: "38,38,238" #blau
   secondary: b8156c #lila
   secondary-dark: 9c125b #dunkellila
