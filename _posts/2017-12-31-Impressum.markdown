@@ -7,7 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: imprint
-description: aeia
 ---
 <h3>Anbieter</h3>
 Kerstin Sternkopf <br>
