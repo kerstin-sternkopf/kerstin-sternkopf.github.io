@@ -27,8 +27,8 @@ disqus_shortname: stefantaubert
 color:
   primary: e61a87 #helllila
   primary-rgb: "38,38,238" #blau
-  secondary: b8156c #lila
-  secondary-dark: 0a9b9f #dunkellila
+  secondary: 0a9b9f #lila
+  secondary-dark: 9c125b #dunkellila
 #   primary: 2fed26 #grün
 #   primary-rgb: "38,38,238" #blau
 #   secondary: 0a9b9f #türkis
