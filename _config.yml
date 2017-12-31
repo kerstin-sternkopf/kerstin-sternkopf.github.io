@@ -27,8 +27,8 @@ disqus_shortname: stefantaubert
 color:
   primary: d0187a
   primary-rgb: "208,24,122"
-  secondary: b8156c
-  secondary-dark: 0a9b9f
+  secondary: 0a9b9f
+  secondary-dark: b8156c
 
 # Footer settings
 footer:
