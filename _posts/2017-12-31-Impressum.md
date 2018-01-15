@@ -1,6 +1,6 @@
 ---
 modal-id: imprint
-img: profile.png
+img: profile.jpg
 category: imprint
 ---
 <h3>Anbieter</h3>
