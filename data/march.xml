@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<offers>
+  
+  <offer number="1">
+    <name>Reisprofi</name>
+    <price>19,90€</price>
+    <starts>05.03.2018</starts>
+    <ends>01.04.2018</ends>
+    <saving>10€</saving>
+    <volume>3l</volume>
+  </offer>
+
+  <offer number="2">
+    <name>Mess &amp; Go</name>
+    <price>19,90€</price>
+    <volume>440ml</volume>
+    <starts>05.03.2018</starts>
+    <ends>01.04.2018</ends>
+    <parts>2</parts>
+  </offer>
+
+  <offer number="3">
+    <name>Multi-Fix</name>
+    <price>45€</price>
+    <saving>6,50€</saving>
+    <volume>730ml</volume>
+    <starts>05.03.2018</starts>
+    <ends>01.04.2018</ends>
+    <extras>inkl. Rezeptideen</extras>
+  </offer>
+
+  <offer number="4">
+    <name>Tafelperlen-Set</name>
+    <price>59,90€</price>
+    <saving>6,80€</saving>
+    <volume>3,5l, 2x450ml, 2x275ml</volume>
+    <starts>05.03.2018</starts>
+    <ends>01.04.2018</ends>
+    <parts>5</parts>
+  </offer>
+  
+  <offer number="5">
+    <name>Tafelperlen-Set Tauschaktion</name>
+    <price>39,90€</price>
+    <saving>26,80€</saving>
+    <volume>3,5l, 2x450ml, 2x275ml</volume>
+    <starts>05.03.2018</starts>
+    <ends>01.04.2018</ends>
+    <parts>5</parts>
+  </offer>
+  
+  <offer number="6">
+    <name>Minions-Spaß</name>
+    <price>21,90€</price>
+    <starts>05.03.2018</starts>
+    <ends>01.04.2018</ends>
+    <saving>ca. 10€</saving>
+    <volume>350ml</volume>
+    <dimensions>10x8x5cm, 13x10x5cm, 2x 2,5x12x7cm</dimensions>
+    <parts>4</parts>
+  </offer>
+
+  <offer number="7">
+    <name>Große Runde</name>
+    <price>30€</price>
+    <starts>05.03.2018</starts>
+    <ends>25.03.2018</ends>
+    <saving>34,70€</saving>
+    <volume>4l, 3l, 2l</volume>
+    <parts>3</parts>
+  </offer>
+
+</offers>

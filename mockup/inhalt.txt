@@ -1,0 +1,59 @@
+Angebot:
+- Bild 
+- Konaktieren Button
+-
+
+1: 
+Name: Reisprofi
+Preis: 19,90Ä (10Ä Ersparnis)
+Inhalt: 3L
+Angebot: 5.3. bis 1.4.
+
+2:
+Name: Mess & Go (2 teilig)
+Preis: 16,90Ä
+Inhalt: 440ml
+Angebot: 5.3. bis 1.4.
+
+3:
+Name: Multi-Fix (inkl. Rezeptideen)
+Preis: 45,00Ä (6,50Ä Ersparnis)
+Inhalt: 730ml
+Angebot: 5.3. bis 1.4.
+
+4:
+Name: Tafelperlen-Set (5 teilig)
+Preis: 59,90Ä (6,80Ä Ersparnis)
+Inhalt: 3,5l, 2x450ml, 2x275ml
+Angebot: 5.3. bis 1.4.
+
+5:
+Name: Tafelperlen-Set Tauschaktion (5 teilig)
+Preis: 39,90Ä (26,80Ä Ersparnis)
+Inhalt: 3,5l, 2x450ml, 2x275ml
+Angebot: 5.3. bis 1.4.
+
+6:
+Name: Minions-Spaﬂ (4 teilig)
+Preis: 21,90Ä (ca. 10Ä Ersparnis)
+Inhalt: 350ml
+Maﬂe: 10x8x5cm, 13x10x5cm, 22,5x12x7cm
+Angebot: 5.3. bis 1.4.
+
+7:
+Name: Groﬂe Runde (3 teilig)
+Preis: 30Ä (34,70Ä Ersparnis)
+Inhalt: 4l, 3l, 2l
+Angebot: 5.3. bis 25.3.18
+
+
+Nummer: id int
+Name: string
+Preis: string
+Ersparnis: string
+Inhalt: string
+Angebot Start: Datum
+Angebot Ende: Datum
+Maﬂe: string
+Teile: int
+Inklusive: string

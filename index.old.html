@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <title>Kerstin Sternkopf</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="language" content="de" />
+
+        <link href="css/w3.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <style>́
+            body {
+                margin: 0;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+
+            #myBtn {
+                display: none;
+                position: fixed;
+                bottom: 20px;
+                right: 30px;
+                z-index: 99;
+            }
+
+            #myBtn:hover {
+                background-color: #555;
+            }
+
+            /*Um die Linksprünge auf die richtige Position zu setzen*/
+            .heading{
+                padding-top:40px;
+                margin-top:-40px;
+            }
+
+            .w3-bar-item {
+                text-transform: uppercase;
+            }
+
+        </style>
+    </head>
+
+
+    <body>
+
+        <nav class="w3-top">
+            <div class="w3-bar w3-teal w3-wide w3-padding w3-card w3-text-white">
+                <a href="#" class="w3-bar-item w3-button w3-hover-pink"><strong>KERSTIN STERNKOPF</strong></a>
+                <!-- Float links to the right. Hide them on small screens -->
+                <a class="w3-bar-item w3-button w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleNavBar()" title="Navigationsmenü umschalten"><i class="fa fa-bars"></i></a>
+
+                <div class="w3-right w3-hide-medium w3-hide-small">
+                    <a href="#offers" class="w3-button w3-bar-item w3-hover-pink">Angebote</a>
+                    <a href="#contact" class="w3-button w3-bar-item w3-hover-pink">Kontakt</a>
+                </div>
+            </div>
+
+            <div id="navDemo" class="w3-bar-block w3-teal w3-hide w3-hide-large w3-text-white">
+                <a href="#offers" class="w3-button w3-bar-item" onclick="toggleNavBar()">Angebote</a>
+                <a href="#contact" class="w3-button w3-bar-item" onclick="toggleNavBar()">Kontakt</a>
+            </div>
+        </nav>
+
+        <br>
+        <br>
+
+        <header id="home" class="w3-display-container heading">
+            <div class="w3-pink" style="width: 100%; height: 350px"></div>
+
+            <div class="w3-display-middle w3-display-left w3-display-right w3-container w3-center w3-text-white w3-margin-top">
+                <img src="img/profil.jpg" class="w3-round w3-margin-top" style="height: 150px" alt="Profilbild">
+                <h1>KERSTIN STERNKOPF</h1>
+                <h4 class="w3-opacity" style="margin-top: 0;">Party Managerin für Tupperware (Beratung & Verkauf) im Erzgebirgskreis</h4>
+            </div>
+        </header>
+
+        <section id="offers" class="w3-content w3-container w3-center heading" style="max-width: 800px;">
+            <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;"><strong>ANGEBOTE</strong></h1>
+            <img src="img/schaber.png" width="300px" style="margin-top: -15px; padding-top: 0px; margin-bottom: 30px;"/>
+
+            <div class="w3-row">
+                <article class="w3-col w3-margin-bottom w3-card w3-hover-shadow">
+
+                    <img class="w3-col m5" src="img/1.png" alt="Käsereibe" style="padding-right: 8px; max-height: 300px; max-width: 300px;">
+                    <div class="w3-col m7 w3-left-align w3-container">
+                        <h2 class="w3-border-bottom w3-text-pink"><strong>Reisprofi</strong></h2>
+                        <h3 class="w3-text-red">nur 19,90€ <div class="w3-medium w3-text-black" style="margin-top: 0;">- 10€ Ersparnis -</div></h3>
+
+                        <p>Inhalt: 3l<br></p>
+
+                        <div class="w3-row" style="width: 100%">
+                            <a class="w3-col s6 w3-button w3-pink" href="https://api.whatsapp.com/send?phone=4917691661003&text=Hallo ich interessiere mich für: Reisprofi" rel="nofollow" title="per WhatsApp Kontakt mit Kerstin aufnehmen">
+                                <i class="fa fa-whatsapp"></i>
+                                Kontaktieren
+                            </a>
+                            <a class="w3-col s6 w3-button w3-teal" href="mailto:kerstin_sternkopf@web.de?subject=Interesse für Reisprofi&body=Hallo Kerstin, ich interessiere mich für: Reisprofi." rel="nofollow" title="per Mailprogramm Kontakt mit Kerstin aufnehmen">
+                                <i class="fa fa-envelope"></i>
+                                Kontaktieren
+                            </a>
+                        </div>
+                        <p class="w3-small">Gültig vom 05.03.2018 bis 01.04.2018</p>
+                    </div>
+
+                </article>
+
+                <article class="w3-col w3-margin-bottom w3-card w3-hover-shadow">
+                    <img class="w3-col m4" src="img/2.png" alt="Käsereibe" style="padding-right: 8px; max-height: 250px; max-width: 250px;">
+                    <div class="w3-col m8 w3-left-align">
+                        <h3>Mess &amp; Go (2-teilig)</h3>
+                        <p>Preis: 19,90€<br>Gültig von 05.03.2018 bis 01.04.2018<br>Inhalt: 440ml<br></p>
+                        <a class="w3-button w3-block w3-teal" href="https://api.whatsapp.com/send?phone=+918767780676&text=Hi, I contacted you Through your website." rel="nofollow">
+                            <i class="fa fa-whatsapp"></i>
+                            Kontaktieren
+                        </a>
+                    </div>
+                </article>
+
+                <article class="w3-col w3-margin-bottom w3-card w3-hover-shadow">
+                    <img class="w3-col m4" src="img/6.png" alt="Käsereibe" style="padding-right: 8px; max-height: 250px; max-width: 250px;">
+                    <div class="w3-col m8 w3-left-align">
+                        <h3>Minions-Spaß (4-teilig)</h3>
+                        <p>Preis: 21,90€ (ca. 10€ Ersparnis)<br>Gültig von 05.03.2018 bis 01.04.2018<br>Inhalt: 350ml<br>Maße: 10x8x5cm, 13x10x5cm, 2x 2,5x12x7cm</p>
+                        <a class="w3-button w3-block w3-teal" href="https://api.whatsapp.com/send?phone=+918767780676&text=Hi, I contacted you Through your website." rel="nofollow">
+                            <i class="fa fa-whatsapp"></i>
+                            Kontaktieren
+                        </a>
+                    </div>
+                </article>
+
+            </div>
+        </section>
+
+        <div id="contact" class="w3-container w3-content heading w3-center" style="max-width: 600px;">
+            <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;"><strong>KONTAKT</strong></h1>
+            <img src="img/schaber.png" width="300px" style="margin-top: -15px; padding-top: 0px; margin-bottom: 30px;"/>
+            <p class="w3-left-align">
+                Sie haben Interesse an den Produkten oder wollen Tupperberaterin werden? Dann kontaktieren Sie mich:
+            </p>
+            <form action="action_page.php" target="_blank">
+                <input class="w3-input" type="text" placeholder="Name" required name="Name">
+                <input class="w3-input w3-section" type="text" placeholder="E-Mail" required name="E-Mail">
+                <input class="w3-input w3-section" type="text" placeholder="Nachricht" required name="Nachricht">
+                <button class="w3-button w3-pink w3-section w3-right" type="submit">
+                    <i class="fa fa-paper-plane"></i> Nachricht senden
+                </button>
+            </form>
+        </div>
+
+
+        <section id="about" class="w3-content w3-container w3-center heading" style="max-width: 400px;">
+            <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;"><strong>ÜBER MICH</strong></h1>
+            <img src="img/schaber.png" width="300px" style="margin-top: -15px; padding-top: 0px; margin-bottom: 30px;"/>
+            <p class="w3-left-align">Ich arbeite seit mehreren Jahren im Erzgebirgskreis als Party Managerin für Tupperware.</p>
+            <br>
+        </section>
+
+
+        <footer class="w3-container w3-center w3-teal w3-xlarge w3-padding-64 w3-center">
+            <a href="https://www.facebook.com/kerstin.sternkopf.73" target="_blank" rel="nofollow"><i class="fa fa-facebook"></i></a>
+                <a href="mailto:kerstin_sternkopf@web.de" rel="nofollow"><i class="fa fa-envelope"></i></a>
+            <br>
+            <br>
+            <p class="w3-medium">© 2018 by Kerstin Sternkopf | <a href="impressum.html">Impressum</a></p>
+        </footer>
+        <button id="myBtn" onclick="topFunction()" class="w3-button w3-small w3-grey" title="Zum Anfang"><i class="fa fa-4x fa-angle-up"></i></button>
+
+        <script async type="text/javascript">
+            // Used to toggle the menu on small screens when clicking on the menu button
+            function toggleNavBar() {
+                var x = document.getElementById("navDemo");
+                if (x.className.indexOf("w3-show") == -1) {
+                    x.className += " w3-show";
+                } else {
+                    x.className = x.className.replace(" w3-show", "");
+                }
+            }
+
+            // When the user scrolls down 20px from the top of the document, show the button
+            window.onscroll = function() {scrollFunction()};
+
+            function scrollFunction() {
+                if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                    document.getElementById("myBtn").style.display = "block";
+                } else {
+                    document.getElementById("myBtn").style.display = "none";
+                }
+            }
+
+            // When the user clicks on the button, scroll to the top of the document
+            function topFunction() {
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+            }
+        </script>
+    </body>
+</html>
