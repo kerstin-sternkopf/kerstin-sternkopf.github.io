@@ -64,7 +64,10 @@
 
         <nav class="w3-top">
           <div class="w3-bar w3-teal w3-wide w3-padding w3-card w3-text-white">
-            <a href="#" class="w3-bar-item w3-button w3-hover-pink">
+            <a href="#" class="w3-bar-item w3-button w3-hover-pink w3-hide-large w3-hide-medium">
+              <strong>K. STERNKOPF</strong>
+            </a>
+            <a href="#" class="w3-bar-item w3-button w3-hover-pink w3-hide-small">
               <strong>KERSTIN STERNKOPF</strong>
             </a>
             <!-- Float links to the right. Hide them on small screens -->
@@ -88,7 +91,7 @@
         <br></br>
 
         <header id="home" class="w3-display-container heading">
-          <div class="w3-pink" style="width: 100%; height: 350px"></div>
+          <div class="w3-pink" style="width: 100%; height: 400px"></div>
 
           <div class="w3-display-middle w3-display-left w3-display-right w3-container w3-center w3-text-white w3-margin-top">
             <img src="img/profil.jpg" class="w3-round w3-margin-top" style="height: 150px" alt="Profilbild"/>
@@ -201,7 +204,7 @@
               <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;">
                 <strong>IMPRESSUM</strong>
               </h1>
-              <img src="img/schaber.png" width="300px" style="margin-top: -15px; padding-top: 0px; margin-bottom: 30px;"/>
+              <img src="img/schaber.png" width="250px" style="margin-top: -15px; padding-top: 0px; margin-bottom: 30px;"/>
 
               <div class="w3-left-align">
                 <h3>Anbieter</h3>
@@ -259,7 +262,8 @@
             © 2018 by Kerstin Sternkopf | <a href="javascript:void(0)" onclick="document.getElementById('impressum').style.display='block'">Impressum</a>
           </p>
         </footer>
-        <button id="myBtn" onclick="topFunction()" class="w3-button w3-small w3-grey" title="Zum Anfang">
+        
+        <button id="myBtn" onclick="topFunction()" class="w3-button w3-small w3-grey w3-opacity" title="Zum Anfang">
           <i class="fa fa-4x fa-angle-up"></i>
         </button>
 
