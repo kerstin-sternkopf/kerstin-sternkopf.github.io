@@ -70,4 +70,13 @@
     <parts>3</parts>
   </offer>
 
+  <offer number="8">
+    <name>Genossen-Set</name>
+    <price>30€</price>
+	<saving>17,10€</saving>
+    <starts>05.03.2018</starts>
+    <ends>25.03.2018</ends>
+    <volume>3x 1,7l</volume>
+    <parts>3</parts>
+  </offer>
 </offers>
