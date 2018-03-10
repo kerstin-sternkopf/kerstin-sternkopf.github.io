@@ -224,15 +224,17 @@
                 E-Mail: kerstin_sternkopf@web.de<br></br>
 
                 <h3>Datenschutz allgemein</h3>
+                <h4>Bildquellen</h4>
+                <p>Alle Angebotsbilder stammen aus den jeweiligen Tupperware Katalogen (<a href="https://www.tupperware.de/" rel="nofollow" target="_blank">Tupperware Startseite aufrufen</a>).</p>
                 <h4>Disqus-Kommentarsystem</h4>
                 <p>
                   Die Disqus-Kommentierungsfunktion wird von der Big Head Labs, Inc., San Francisco, USA als Dienstleistung zur Verfügung gestellt. Disqus ist ein interaktives Kommentarsystem, das es dem Nutzer ermöglicht, mit nur einer Anmeldung auf allen Internetangeboten, die Disqus als Kommentarsystem verwenden, zu kommentieren. Außerdem können sich die Nutzer über bestehende Accounts bei Facebook (über Facebook Connect), Twitter, Yahoo und OpenID anmelden. Auch die Erstellung von Kommentare ohne Registrierung und Anmeldung (als “Gast”) ist möglich. Nähere Informationen zu Disqus und seinen Funktionen finden Sie unter www.disqus.com.
                 </p>
                 <p>
-                  Ihre Daten werden von Disqus verarbeitet und auf Systemen von Disqus gespeichert. Für die Erhebung, Verarbeitung und Nutzung der betreffenden Daten gelten die Nutzungsbedingungen und Datenschutzhinweise von Disqus, zu finden unter <a href="http://docs.disqus.com/help/30/">hier</a> und <a href="http://docs.disqus.com/help/29/">hier</a>. Wenn Sie sich über Ihren Facebook-, Twitter-, Yahoo- oder OpenID-Account anmelden, werden auch von diesen Anbietern möglicherweise Daten erhoben, gespeichert und genutzt. Einzelheiten dazu finden sich in den Datenschutzbestimmungen des jeweiligen Anbieters.
+                  Ihre Daten werden von Disqus verarbeitet und auf Systemen von Disqus gespeichert. Für die Erhebung, Verarbeitung und Nutzung der betreffenden Daten gelten die Nutzungsbedingungen und Datenschutzhinweise von Disqus, zu finden unter <a href="http://docs.disqus.com/help/30/" rel="nofollow" target="_blank" >hier</a> und <a href="http://docs.disqus.com/help/29/" rel="nofollow" target="_blank" >hier</a>. Wenn Sie sich über Ihren Facebook-, Twitter-, Yahoo- oder OpenID-Account anmelden, werden auch von diesen Anbietern möglicherweise Daten erhoben, gespeichert und genutzt. Einzelheiten dazu finden sich in den Datenschutzbestimmungen des jeweiligen Anbieters.
                 </p>
                 <i>
-                  Quelle: <a href="https://www.ambiverse.com/datenschutz/" rel="nofollow">https://www.ambiverse.com/datenschutz/</a>
+                  Quelle: <a href="https://www.ambiverse.com/datenschutz/" target="_blank" rel="nofollow">https://www.ambiverse.com/datenschutz/</a>
                 </i>
 
                 <h3>Haftungsauschluss</h3>
@@ -247,7 +249,7 @@
                 <p>Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p>
                 <p>
                   <i>
-                    Quelle: <a href="https://www.e-recht24.de" rel="nofollow">https://www.e-recht24.de</a>
+                    Quelle: <a href="https://www.e-recht24.de" rel="nofollow" target="_blank">https://www.e-recht24.de</a>
                   </i>
                 </p>
               </div>
