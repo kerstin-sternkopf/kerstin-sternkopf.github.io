@@ -8,7 +8,7 @@
         <title>Kerstin Sternkopf</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Aktuelle Angebote für Tupperware im Landkreis Schwarzenberg. Ihr zuständige Party-Managerin Kerstin Sternkopf." />
+        <meta name="description" content="Aktuelle Angebote für Tupperware im Erzgebirgskreis. Party-Managerin Kerstin Sternkopf freut sich über Ihren Kontakt." />
         <meta name="keywords" content="Tupperware, Kerstin, Sternkopf" />
         <meta name="language" content="de" />
 
@@ -21,6 +21,13 @@
           margin: 0;
           font-family: Arial, Helvetica, sans-serif;
 
+          }
+
+          .schaber{
+            width: 250px;
+            margin-top: -15px;
+            padding-top: 0px;
+            margin-bottom: 30px;
           }
 
           #myBtn {
@@ -104,7 +111,7 @@
           <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;">
             <strong>ANGEBOTE</strong>
           </h1>
-          <img src="img/schaber.png" width="300px" style="margin-top: -15px; padding-top: 0px; margin-bottom: 30px;"/>
+          <img src="img/schaber.png" class="schaber"/>
 
           <div class="w3-row">
             <xsl:apply-templates/>
@@ -115,7 +122,7 @@
           <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;">
             <strong>KONTAKT</strong>
           </h1>
-          <img src="img/schaber.png" width="300px" style="margin-top: -15px; padding-top: 0px; margin-bottom: 30px;"/>
+          <img src="img/schaber.png" class="schaber"/>
 
           <p class="w3-left-align">
             Sie wollen meine nächste Gastgeberin sein oder Tupperberaterin werden? Dann kontaktieren Sie mich:
@@ -147,7 +154,7 @@
           <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;">
             <strong>ÜBER MICH</strong>
           </h1>
-          <img src="img/schaber.png" width="300px" style="margin-top: -15px; padding-top: 0px; margin-bottom: 30px;"/>
+          <img src="img/schaber.png" class="schaber"/>
           <p class="w3-left-align">Ich arbeite seit mehreren Jahren im Erzgebirgskreis als Party Managerin für Tupperware.</p>
           <br></br>
         </section>
@@ -157,7 +164,7 @@
           <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;">
             <strong>GÄSTEBUCH</strong>
           </h1>
-          <img src="img/schaber.png" width="300px" style="margin-top: -15px; padding-top: 0px; margin-bottom: 30px;"/>
+          <img src="img/schaber.png" class="schaber"/>
 
           <p>Vielen Dank für Ihr Feedback!</p>
           <!-- Funktioniert leider nicht mit GitHubPages und keiner eigenen, das
@@ -187,7 +194,7 @@
 
             (function() { // DON'T EDIT BELOW THIS LINE
             var d = document, s = d.createElement('script');
-            s.src = 'https://https-kerstin-sternkopf-github-io.disqus.com/embed.js';
+            s.src = 'https://kerstin-sternkopf-github.disqus.com/embed.js';
             s.setAttribute('data-timestamp', +new Date());
             (d.head || d.body).appendChild(s);
             })();
@@ -204,7 +211,7 @@
               <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;">
                 <strong>IMPRESSUM</strong>
               </h1>
-              <img src="img/schaber.png" width="250px" style="margin-top: -15px; padding-top: 0px; margin-bottom: 30px;"/>
+              <img src="img/schaber.png" class="schaber"/>
 
               <div class="w3-left-align">
                 <h3>Anbieter</h3>
