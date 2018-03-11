@@ -223,6 +223,11 @@
                 Telefon: 0176/91661003 <br></br>
                 E-Mail: kerstin_sternkopf@web.de<br></br>
 
+				<h3>Verantwortlicher für Webauftritt</h3>
+				<p>Stefan Taubert<br></br>
+				<a href="http://www.stefantaubert.com/" target="_blank">http://www.stefantaubert.com/</a>
+				</p>
+				
                 <h3>Datenschutz allgemein</h3>
                 <h4>Bildquellen</h4>
                 <p>Alle Angebotsbilder stammen aus den jeweiligen Tupperware Katalogen (<a href="https://www.tupperware.de/" rel="nofollow" target="_blank">Tupperware Startseite aufrufen</a>).</p>
