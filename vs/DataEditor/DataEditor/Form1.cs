@@ -138,7 +138,7 @@ namespace DataEditor
             {
                 Offers.Serialize(this.offers);
                 Offers.GenerateFile();
-                Offers.ExecuteGit();
+                Offers.ExeGit();
                 MessageBox.Show("Veröffentlichen war erfolgreich!", "Erfolgreich!");
             }
         }
@@ -150,6 +150,11 @@ namespace DataEditor
             {
                 e.Handled = true;
             }
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://kerstin-sternkopf.github.io");
         }
     }
 }

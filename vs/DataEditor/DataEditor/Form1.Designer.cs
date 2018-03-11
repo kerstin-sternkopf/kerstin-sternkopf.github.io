@@ -54,8 +54,9 @@
             this.label10 = new System.Windows.Forms.Label();
             this.publishBtn = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.saveBtn = new System.Windows.Forms.Button();
             this.partsTxt = new System.Windows.Forms.TextBox();
+            this.saveBtn = new System.Windows.Forms.Button();
+            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -316,6 +317,13 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Angebot bearbeiten";
             // 
+            // partsTxt
+            // 
+            this.partsTxt.Location = new System.Drawing.Point(320, 173);
+            this.partsTxt.Name = "partsTxt";
+            this.partsTxt.Size = new System.Drawing.Size(141, 20);
+            this.partsTxt.TabIndex = 28;
+            // 
             // saveBtn
             // 
             this.saveBtn.Location = new System.Drawing.Point(319, 302);
@@ -326,18 +334,23 @@
             this.saveBtn.UseVisualStyleBackColor = true;
             this.saveBtn.Click += new System.EventHandler(this.saveBtn_Click);
             // 
-            // partsTxt
+            // linkLabel1
             // 
-            this.partsTxt.Location = new System.Drawing.Point(320, 173);
-            this.partsTxt.Name = "partsTxt";
-            this.partsTxt.Size = new System.Drawing.Size(141, 20);
-            this.partsTxt.TabIndex = 28;
+            this.linkLabel1.AutoSize = true;
+            this.linkLabel1.Location = new System.Drawing.Point(9, 307);
+            this.linkLabel1.Name = "linkLabel1";
+            this.linkLabel1.Size = new System.Drawing.Size(164, 13);
+            this.linkLabel1.TabIndex = 33;
+            this.linkLabel1.TabStop = true;
+            this.linkLabel1.Text = "https://kerstin-sternkopf.github.io";
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(616, 337);
+            this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.saveBtn);
             this.Controls.Add(this.publishBtn);
             this.Controls.Add(this.removeBtn);
@@ -351,6 +364,7 @@
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -383,6 +397,7 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button saveBtn;
         private System.Windows.Forms.TextBox partsTxt;
+        private System.Windows.Forms.LinkLabel linkLabel1;
     }
 }
 

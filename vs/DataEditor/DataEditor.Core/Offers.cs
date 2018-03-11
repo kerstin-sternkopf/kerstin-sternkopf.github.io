@@ -18,11 +18,12 @@ namespace DataEditor.Core
 {
     public class Offers
     {
-        private static string rootDir = Settings.Default.RootPath;
-        private static string pathImgDir = Path.Combine(rootDir, "img");
-        private static string pathXml = Path.Combine(rootDir, @"data\march.xml");
-        private static string pathHtml = Path.Combine(rootDir, @"index.html");
-        private static string pathXslt = Path.Combine(rootDir, @"data\angebote.xslt");
+        private static string pathImgDir = Path.Combine(Settings.Default.RootPath, "img");
+        private static string pathXml = Path.Combine(Settings.Default.RootPath, @"data\march.xml");
+        private static string pathHtml = Path.Combine(Settings.Default.RootPath, @"index.html");
+        private static string pathXslt = Path.Combine(Settings.Default.RootPath, @"data\angebote.xslt");
+        private static string pathGit = Path.Combine(Settings.Default.GitInstallDir, @"bin\git.exe");
+
 
         public static void ExecuteGit()
         {
@@ -34,6 +35,59 @@ namespace DataEditor.Core
             Process.Start(gitCommand, gitAddArgument);
             Process.Start(gitCommand, gitCommitArgument);
             Process.Start(gitCommand, gitPushArgument);
+        }
+
+        public static void ExeGit()
+        {
+            ProcessStartInfo gitInfo = new ProcessStartInfo();
+            gitInfo.CreateNoWindow = true;
+            gitInfo.RedirectStandardError = true;
+            gitInfo.RedirectStandardOutput = true;
+            gitInfo.FileName = pathGit;
+
+            Process gitProcess = new Process();
+            gitInfo.UseShellExecute = false;
+            gitInfo.Arguments = "add -A";
+            gitInfo.WorkingDirectory = Settings.Default.RootPath;
+
+            gitProcess.StartInfo = gitInfo;
+            gitProcess.Start();
+
+            var stderr_str = gitProcess.StandardError.ReadToEnd();  // pick up STDERR
+            var stdout_str = gitProcess.StandardOutput.ReadToEnd(); // pick up STDOUT
+
+            gitProcess.WaitForExit();
+            gitProcess.Close();
+
+
+            Process gitProcessCommit = new Process();
+            gitInfo.UseShellExecute = false;
+            gitInfo.Arguments = @"commit -m ""Seitenupdate vom " + DateTime.Now.ToShortDateString() + " " + DateTime.Now.ToShortTimeString() + @""" ";
+            gitInfo.WorkingDirectory = Settings.Default.RootPath;
+
+            gitProcess.StartInfo = gitInfo;
+            gitProcess.Start();
+
+            stderr_str = gitProcess.StandardError.ReadToEnd();  // pick up STDERR
+            stdout_str = gitProcess.StandardOutput.ReadToEnd(); // pick up STDOUT
+
+            gitProcess.WaitForExit();
+            gitProcess.Close();
+
+
+            Process gitProcessPush = new Process();
+            gitInfo.UseShellExecute = false;
+            gitInfo.Arguments = @"push";
+            gitInfo.WorkingDirectory = Settings.Default.RootPath;
+
+            gitProcess.StartInfo = gitInfo;
+            gitProcess.Start();
+
+            stderr_str = gitProcess.StandardError.ReadToEnd();  // pick up STDERR
+            stdout_str = gitProcess.StandardOutput.ReadToEnd(); // pick up STDOUT
+
+            gitProcess.WaitForExit();
+            gitProcess.Close();
         }
 
         public static void GenerateFile()

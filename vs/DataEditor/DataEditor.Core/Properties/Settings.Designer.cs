@@ -34,5 +34,17 @@ namespace DataEditor.Core.Properties {
                 this["RootPath"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Program Files\\Git")]
+        public string GitInstallDir {
+            get {
+                return ((string)(this["GitInstallDir"]));
+            }
+            set {
+                this["GitInstallDir"] = value;
+            }
+        }
     }
 }

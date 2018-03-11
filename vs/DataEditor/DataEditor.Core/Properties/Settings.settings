@@ -5,5 +5,8 @@
     <Setting Name="RootPath" Type="System.String" Scope="User">
       <Value Profile="(Default)">D:\dev\web\kerstin-sternkopf.github.io</Value>
     </Setting>
+    <Setting Name="GitInstallDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Git</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
