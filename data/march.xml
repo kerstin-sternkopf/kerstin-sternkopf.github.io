@@ -71,4 +71,13 @@
     <parts>3</parts>
     <volume>3x 1,7l</volume>
   </offer>
+  <offer number="9">
+    <name>FaserPro Set</name>
+    <starts>26.03.2018</starts>
+    <ends>01.04.2018</ends>
+    <price>23,40</price>
+    <saving>17,00</saving>
+    <parts>4</parts>
+    <dimensions>20 x 20</dimensions>
+  </offer>
 </offers>
