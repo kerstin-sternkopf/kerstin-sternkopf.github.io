@@ -54,30 +54,12 @@
     <dimensions>10x8x5cm, 13x10x5cm, 2x 2,5x12x7cm</dimensions>
   </offer>
   <offer number="7">
-    <name>Große Runde</name>
-    <starts>05.03.2018</starts>
-    <ends>25.03.2018</ends>
-    <price>30€</price>
-    <saving>34,70€</saving>
-    <parts>3</parts>
-    <volume>4l, 3l, 2l</volume>
-  </offer>
-  <offer number="8">
-    <name>Genossen-Set</name>
-    <starts>05.03.2018</starts>
-    <ends>25.03.2018</ends>
-    <price>30€</price>
-    <saving>17,10€</saving>
-    <parts>3</parts>
-    <volume>3x 1,7l</volume>
-  </offer>
-  <offer number="9">
     <name>FaserPro Set</name>
     <starts>26.03.2018</starts>
     <ends>01.04.2018</ends>
-    <price>23,40</price>
-    <saving>17,00</saving>
+    <price>23,40 €</price>
+    <saving>17,00 € </saving>
     <parts>4</parts>
-    <dimensions>20 x 20</dimensions>
+    <dimensions>20 x 20 cm</dimensions>
   </offer>
 </offers>
