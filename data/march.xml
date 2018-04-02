@@ -7,7 +7,7 @@
     <price>29,90 €</price>
     <saving>13,80 €</saving>
     <parts>5 </parts>
-    <volume>2 l,4 x 330 ml</volume>
+    <volume>2 l, 4 x 330 ml</volume>
   </offer>
   <offer number="2">
     <name>Frische-Set</name>
@@ -16,16 +16,16 @@
     <price>34,90 €</price>
     <saving>9,80 €</saving>
     <parts>3</parts>
-    <volume>1,8l, 0,8l</volume>
+    <volume>1,8 l, 0,8 l</volume>
   </offer>
   <offer number="3">
     <name>Servierschalen-Set</name>
     <starts>02.04.2018</starts>
     <ends>06.05.2018</ends>
-    <price>19,90€</price>
-    <saving>ca 7€</saving>
+    <price>19,90 €</price>
+    <saving>ca 7 €</saving>
     <parts>3</parts>
-    <volume>350ml</volume>
+    <volume>350 ml</volume>
   </offer>
   <offer number="4">
     <name>Knödelei</name>
