@@ -48,7 +48,7 @@
     <price>69,90 €</price>
     <saving>24,10 €</saving>
     <extras>inkl. Rezeptideen</extras>
-    <volume>3,5l</volume>
+    <volume>3,5 l</volume>
   </offer>
   <offer number="7">
     <name>Snoopy Pausenbox-Set </name>
@@ -56,7 +56,7 @@
     <ends>22.04.2018</ends>
     <price>20,00 €</price>
     <parts>2</parts>
-    <dimensions>15,.x13,2x5,0 cm</dimensions>
+    <dimensions>15,1.x13,2x5,0 cm</dimensions>
   </offer>
   <offer number="8">
     <name>Fussball-Pausenbox</name>
