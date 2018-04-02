@@ -1,65 +1,56 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Reisprofi</name>
-    <starts>05.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>19,90€</price>
-    <saving>10€</saving>
-    <volume>3l</volume>
+    <name>Laola-Welle Set</name>
+    <starts>02.04.2018</starts>
+    <ends>06.05.2018</ends>
+    <price>29,90 €</price>
+    <saving>13,80 €</saving>
+    <parts>5 </parts>
+    <volume>2 l,4 x 330 ml</volume>
   </offer>
   <offer number="2">
-    <name>Mess and Go</name>
-    <starts>05.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>19,90€</price>
-    <parts>2</parts>
-    <volume>440ml</volume>
+    <name>Frische-Set</name>
+    <starts>02.04.2018</starts>
+    <ends>06.05.2018</ends>
+    <price>34,90 €</price>
+    <saving>9,80 €</saving>
+    <parts>3</parts>
+    <volume>1,8l, 0,8l</volume>
   </offer>
   <offer number="3">
-    <name>Multi-Fix</name>
-    <starts>05.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>45€</price>
-    <saving>6,50€</saving>
-    <extras>inkl. Rezeptideen</extras>
-    <volume>730ml</volume>
+    <name>Servierschalen-Set</name>
+    <starts>02.04.2018</starts>
+    <ends>06.05.2018</ends>
+    <price>19,90€</price>
+    <saving>ca 7€</saving>
+    <parts>3</parts>
+    <volume>350ml</volume>
   </offer>
   <offer number="4">
-    <name>Tafelperlen-Set</name>
-    <starts>05.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>59,90€</price>
-    <saving>6,80€</saving>
-    <parts>5</parts>
-    <volume>3,5l, 2x450ml, 2x275ml</volume>
+    <name>Knödelei</name>
+    <starts>02.04.2018</starts>
+    <ends>06.05.2018</ends>
+    <price>14,90€</price>
+    <saving>ca 5€</saving>
+    <volume>70/87 ml</volume>
   </offer>
   <offer number="5">
-    <name>Tafelperlen-Set Tauschaktion</name>
-    <starts>05.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>39,90€</price>
-    <saving>26,80€</saving>
-    <parts>5</parts>
-    <volume>3,5l, 2x 450ml, 2x 275ml</volume>
+    <name>Rezeptheft "Lass Dich überraschen"</name>
+    <starts>02.04.2018</starts>
+    <ends>06.05.2018</ends>
+    <price>4,90€</price>
+    <extras>Passend zu Knödelei</extras>
+    <dimensions>19 x 15 cm</dimensions>
   </offer>
   <offer number="6">
-    <name>Minions-Spaß</name>
-    <starts>05.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>21,90€</price>
-    <saving>ca. 10€</saving>
-    <parts>4</parts>
-    <volume>350ml</volume>
-    <dimensions>10x8x5cm, 13x10x5cm, 2x 2,5x12x7cm</dimensions>
-  </offer>
-  <offer number="7">
-    <name>FaserPro Set</name>
-    <starts>26.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>23,40 €</price>
-    <saving>17,00 € </saving>
-    <parts>4</parts>
-    <dimensions>20 x 20 cm</dimensions>
+    <name>Ultra</name>
+    <starts>02.04.2018</starts>
+    <ends>06.05.2018</ends>
+    <price>69,90 €</price>
+    <saving>24,10 €</saving>
+    <extras>inkl. Rezeptideen</extras>
+    <parts>1 Unterteil + 1 Deckel</parts>
+    <volume>3,5l</volume>
   </offer>
 </offers>
