@@ -23,7 +23,6 @@
     <starts>02.04.2018</starts>
     <ends>06.05.2018</ends>
     <price>19,90 €</price>
-    <saving>ca 7 €</saving>
     <parts>3</parts>
     <volume>350 ml</volume>
   </offer>
@@ -32,7 +31,6 @@
     <starts>02.04.2018</starts>
     <ends>06.05.2018</ends>
     <price>14,90€</price>
-    <saving>ca 5€</saving>
     <volume>70/87 ml</volume>
   </offer>
   <offer number="5">
@@ -50,7 +48,6 @@
     <price>69,90 €</price>
     <saving>24,10 €</saving>
     <extras>inkl. Rezeptideen</extras>
-    <parts>1 Unterteil + 1 Deckel</parts>
     <volume>3,5l</volume>
   </offer>
   <offer number="7">
