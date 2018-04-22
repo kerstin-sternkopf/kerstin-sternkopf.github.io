@@ -51,27 +51,11 @@
     <volume>3,5 l</volume>
   </offer>
   <offer number="7">
-    <name>Snoopy Pausenbox-Set </name>
-    <starts>02.04.2018</starts>
-    <ends>22.04.2018</ends>
-    <price>20,00 €</price>
-    <parts>2</parts>
-    <dimensions>15,1x13,2x5,0 cm</dimensions>
-  </offer>
-  <offer number="8">
-    <name>Fussball-Pausenbox</name>
-    <starts>02.04.2018</starts>
-    <ends>22.04.2018</ends>
-    <price>10,00 €</price>
-    <dimensions>15,1x13,2x5,0 cm</dimensions>
-  </offer>
-  <offer number="9">
-    <name>Brotzeit-Set</name>
-    <starts>09.04.2018</starts>
-    <ends>22.04.2018</ends>
-    <price>16,90 €</price>
-    <saving>26,90 €</saving>
-    <parts>2</parts>
-    <dimensions>19 x 19 x 8 cm +16 x 10 x 7 cm</dimensions>
+    <name>Junge Welle, Salat-Set</name>
+    <starts>23.04.2018</starts>
+    <ends>06.05.2018</ends>
+    <price>29,90 €</price>
+    <parts>3</parts>
+    <volume>4,3 l</volume>
   </offer>
 </offers>
