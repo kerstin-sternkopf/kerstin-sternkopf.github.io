@@ -58,4 +58,13 @@
     <parts>3</parts>
     <volume>4,3 l</volume>
   </offer>
+  <offer number="8">
+    <name>Kuchenwellen-Set</name>
+    <starts>30.04.2018</starts>
+    <ends>13.05.2018</ends>
+    <price>26,90 €</price>
+    <saving>26,90 €</saving>
+    <parts>2</parts>
+    <dimensions>Ø 30 x 8 cm + 32 x 16 x 13 cm</dimensions>
+  </offer>
 </offers>
