@@ -1,22 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Kuchenwellen-Set</name>
-    <starts>30.04.2018</starts>
-    <ends>13.05.2018</ends>
-    <price>26,90 €</price>
-    <saving>26,90 €</saving>
-    <parts>2</parts>
-    <dimensions>Ø 30 x 8 cm + 32 x 16 x 13 cm</dimensions>
-  </offer>
-  <offer number="2">
     <name>Eco Bottle</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
     <price>9,90 €</price>
     <volume>750 ml</volume>
   </offer>
-  <offer number="3">
+  <offer number="2">
     <name>Maxi-Twin-Triple</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
@@ -25,7 +16,7 @@
     <parts>3</parts>
     <dimensions>22,5x12x7 + 13x10x5 + 10x8x5 cm</dimensions>
   </offer>
-  <offer number="4">
+  <offer number="3">
     <name>Allegra - Set, grün </name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
@@ -34,28 +25,28 @@
     <parts>3</parts>
     <volume>3,5 l + 1,5 l + 740 ml</volume>
   </offer>
-  <offer number="5">
+  <offer number="4">
     <name>Allegra, grün 3,5 l</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
     <price>26,90 €</price>
     <volume>3,5 l</volume>
   </offer>
-  <offer number="6">
+  <offer number="5">
     <name>Allegra, grün 1,5 l</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
     <price>22,90 €</price>
     <volume>1,5 l</volume>
   </offer>
-  <offer number="7">
+  <offer number="6">
     <name>Allegra, grün 740 ml</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
     <price>12,50 €</price>
     <volume>740 ml</volume>
   </offer>
-  <offer number="8">
+  <offer number="7">
     <name>Lager - Set</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
@@ -64,7 +55,7 @@
     <parts>2</parts>
     <volume>8,3 l + 5,5 l</volume>
   </offer>
-  <offer number="9">
+  <offer number="8">
     <name>Kartoffel - King</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
@@ -72,7 +63,7 @@
     <saving>5,00 €</saving>
     <volume>8,3 l</volume>
   </offer>
-  <offer number="10">
+  <offer number="9">
     <name>Zwiebi</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
@@ -80,7 +71,7 @@
     <saving>5,00 €</saving>
     <volume>5,5 l</volume>
   </offer>
-  <offer number="11">
+  <offer number="10">
     <name>Junior</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
@@ -88,7 +79,7 @@
     <saving>10,00 €</saving>
     <dimensions>27,8 x 10,08 x 4,7 cm</dimensions>
   </offer>
-  <offer number="12">
+  <offer number="11">
     <name>Gefrier - Set</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
@@ -97,7 +88,7 @@
     <parts>4</parts>
     <volume>4 x 450 ml</volume>
   </offer>
-  <offer number="13">
+  <offer number="12">
     <name>Grünes Licht</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
@@ -107,7 +98,7 @@
     <parts>2</parts>
     <volume>2,5 l</volume>
   </offer>
-  <offer number="14">
+  <offer number="13">
     <name>Allegra, Grünes Trio</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
@@ -117,7 +108,7 @@
     <parts>3</parts>
     <volume>3,5 l + 1,5 l + 740 ml</volume>
   </offer>
-  <offer number="15">
+  <offer number="14">
     <name>Ultra, 2,0 l</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
@@ -126,7 +117,7 @@
     <extras>Party-Angebot für Gastgeberin ab 400 € Umsatz + 1 Buchung</extras>
     <volume>2,0 l</volume>
   </offer>
-  <offer number="16">
+  <offer number="15">
     <name>Frostie</name>
     <starts>07.05.2018</starts>
     <ends>03.06.2018</ends>
