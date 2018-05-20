@@ -26,6 +26,7 @@ namespace DataEditor.Core.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\User\\kerstin-sternkopf.github.io")]
+        //[global::System.Configuration.DefaultSettingValueAttribute("D:\\dev\\web\\kerstin-sternkopf.github.io")]
         public string RootPath {
             get {
                 return ((string)(this["RootPath"]));

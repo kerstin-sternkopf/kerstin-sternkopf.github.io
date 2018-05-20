@@ -109,8 +109,6 @@ namespace DataEditor.Core
         {
             try
             {
-
-
                 var res = new List<Offer>();
                 var offers = new Offers();
                 XDocument doc = XDocument.Load(pathXml);

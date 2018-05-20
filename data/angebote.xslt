@@ -127,12 +127,14 @@
           <p class="w3-left-align">
             Sie wollen meine nächste Gastgeberin sein oder Tupperberaterin werden? Dann kontaktieren Sie mich:
           </p>
-
+          <!--
           <a class="w3-col s6 w3-button w3-pink" rel="nofollow" title="per WhatsApp Kontakt mit Kerstin aufnehmen" href="https://api.whatsapp.com/send?phone=4917691661003&amp;text=Hallo Kerstin, ich möchte gern Kontakt aufnehmen.">
             <i class="fa fa-whatsapp"></i>
             Kontaktieren
           </a>
           <a class="w3-col s6 w3-button w3-teal" rel="nofollow" title="per Mailprogramm Kontakt mit Kerstin aufnehmen" href="mailto:kerstin_sternkopf@web.de?subject=Kontaktanfrage Tupperware&amp;body=Hallo Kerstin, ich möchte gern Kontakt aufnehmen.">
+          -->
+          <a class="w3-col w3-button w3-pink" rel="nofollow" title="per Mailprogramm Kontakt mit Kerstin aufnehmen" href="mailto:kerstin_sternkopf@web.de?subject=Kontaktanfrage Tupperware&amp;body=Hallo Kerstin, ich möchte gern Kontakt aufnehmen.">
             <i class="fa fa-envelope"></i>
             Kontaktieren
           </a>
@@ -271,9 +273,9 @@
           <a href="mailto:kerstin_sternkopf@web.de" rel="nofollow">
             <i class="fa fa-envelope"></i>
           </a>
+          <br></br>
+          <br></br>
           -->
-          <br></br>
-          <br></br>
           <p class="w3-medium">
             © 2018 by Kerstin Sternkopf | <a href="javascript:void(0)" onclick="document.getElementById('impressum').style.display='block'">Impressum</a>
           </p>
@@ -371,6 +373,7 @@
         </xsl:if>
 
         <div class="w3-row" style="width: 100%">
+          <!--
           <a class="w3-col s6 w3-button w3-pink" rel="nofollow" title="per WhatsApp Kontakt mit Kerstin aufnehmen">
             <xsl:attribute name="href">
               <xsl:text>https://api.whatsapp.com/send?phone=4917691661003&amp;text=Hallo ich interessiere mich für: </xsl:text>
@@ -380,6 +383,8 @@
             Kontaktieren
           </a>
           <a class="w3-col s6 w3-button w3-teal" rel="nofollow" title="per Mailprogramm Kontakt mit Kerstin aufnehmen">
+          -->
+          <a class="w3-col w3-button w3-teal" rel="nofollow" title="per Mailprogramm Kontakt mit Kerstin aufnehmen">
             <xsl:attribute name="href">
               <xsl:text>mailto:kerstin_sternkopf@web.de?subject=Interesse für </xsl:text>
               <xsl:value-of select="name"/>
