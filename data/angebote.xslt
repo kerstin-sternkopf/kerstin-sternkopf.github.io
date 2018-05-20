@@ -231,21 +231,12 @@
 				<p>Stefan Taubert<br></br>
 				<a href="http://www.stefantaubert.com/" target="_blank">http://www.stefantaubert.com/</a>
 				</p>
-				
                 <h3>Datenschutz allgemein</h3>
+                <p>
+                  Die Datenschutzerklärung finden Sie hier: <a href="datenschutz.html">Datenschutzerklärung</a>
+                </p>
                 <h4>Bildquellen</h4>
                 <p>Alle Angebotsbilder stammen aus den jeweiligen Tupperware Katalogen (<a href="https://www.tupperware.de/" rel="nofollow" target="_blank">Tupperware Startseite aufrufen</a>).</p>
-                <h4>Disqus-Kommentarsystem</h4>
-                <p>
-                  Die Disqus-Kommentierungsfunktion wird von der Big Head Labs, Inc., San Francisco, USA als Dienstleistung zur Verfügung gestellt. Disqus ist ein interaktives Kommentarsystem, das es dem Nutzer ermöglicht, mit nur einer Anmeldung auf allen Internetangeboten, die Disqus als Kommentarsystem verwenden, zu kommentieren. Außerdem können sich die Nutzer über bestehende Accounts bei Facebook (über Facebook Connect), Twitter, Yahoo und OpenID anmelden. Auch die Erstellung von Kommentare ohne Registrierung und Anmeldung (als “Gast”) ist möglich. Nähere Informationen zu Disqus und seinen Funktionen finden Sie unter www.disqus.com.
-                </p>
-                <p>
-                  Ihre Daten werden von Disqus verarbeitet und auf Systemen von Disqus gespeichert. Für die Erhebung, Verarbeitung und Nutzung der betreffenden Daten gelten die Nutzungsbedingungen und Datenschutzhinweise von Disqus, zu finden unter <a href="http://docs.disqus.com/help/30/" rel="nofollow" target="_blank" >hier</a> und <a href="http://docs.disqus.com/help/29/" rel="nofollow" target="_blank" >hier</a>. Wenn Sie sich über Ihren Facebook-, Twitter-, Yahoo- oder OpenID-Account anmelden, werden auch von diesen Anbietern möglicherweise Daten erhoben, gespeichert und genutzt. Einzelheiten dazu finden sich in den Datenschutzbestimmungen des jeweiligen Anbieters.
-                </p>
-                <i>
-                  Quelle: <a href="https://www.ambiverse.com/datenschutz/" target="_blank" rel="nofollow">https://www.ambiverse.com/datenschutz/</a>
-                </i>
-
                 <h3>Haftungsauschluss</h3>
                 <h4>Haftung für Inhalte</h4>
                 <p>Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</p>
@@ -261,6 +252,8 @@
                     Quelle: <a href="https://www.e-recht24.de" rel="nofollow" target="_blank">https://www.e-recht24.de</a>
                   </i>
                 </p>
+                
+                
               </div>
             </div>
           </div>
@@ -279,7 +272,7 @@
           <br></br>
           -->
           <p class="w3-medium">
-            © 2018 by Kerstin Sternkopf | <a href="javascript:void(0)" onclick="document.getElementById('impressum').style.display='block'">Impressum</a>
+            © 2018 by Kerstin Sternkopf | <a href="javascript:void(0)" onclick="document.getElementById('impressum').style.display='block'">Impressum</a> | <a href="datenschutz.html">Datenschutz</a>
           </p>
         </footer>
         
