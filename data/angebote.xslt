@@ -206,7 +206,6 @@
             Bitte aktivieren Sie JavaScript um die <a href="https://disqus.com/?ref_noscript">Gästebucheinträge von Disqus anzusehen.</a>
           </noscript>
         </section>
-        -->
 
         <div id="impressum" class="w3-modal">
           <div class="w3-modal-content w3-animate-bottom">
@@ -252,12 +251,11 @@
                     Quelle: <a href="https://www.e-recht24.de" rel="nofollow" target="_blank">https://www.e-recht24.de</a>
                   </i>
                 </p>
-                
-                
               </div>
             </div>
           </div>
         </div>
+        -->
 
         <footer class="w3-container w3-center w3-teal w3-xlarge w3-padding-64 w3-center">
           <!--
@@ -272,7 +270,8 @@
           <br></br>
           -->
           <p class="w3-medium">
-            © 2018 by Kerstin Sternkopf | <a href="javascript:void(0)" onclick="document.getElementById('impressum').style.display='block'">Impressum</a> | <a href="datenschutz.html">Datenschutz</a>
+            <!--© 2018 by Kerstin Sternkopf | <a href="javascript:void(0)" onclick="document.getElementById('impressum').style.display='block'">Impressum</a> | <a href="datenschutz.html">Datenschutz</a>-->
+            © 2018 by Kerstin Sternkopf | <a href="impressum.html">Impressum</a> | <a href="datenschutz.html">Datenschutz</a>
           </p>
         </footer>
         
