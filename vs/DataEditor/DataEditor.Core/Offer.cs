@@ -29,8 +29,8 @@ namespace DataEditor.Core
         public string Extras { get; set; }
         public bool IsValid { get {
                 return !string.IsNullOrWhiteSpace(this.Name) &&
-                    !string.IsNullOrWhiteSpace(this.Price);
-                    //this.Img != null;
+                    !string.IsNullOrWhiteSpace(this.Price) &&
+                    this.Img != null;
             } }
 
         public override string ToString()

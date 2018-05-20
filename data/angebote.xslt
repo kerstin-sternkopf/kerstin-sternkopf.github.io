@@ -149,7 +149,6 @@
 
         </div>
 
-
         <section id="about" class="w3-content w3-container w3-center heading" style="max-width: 400px;">
           <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;">
             <strong>ÜBER MICH</strong>
@@ -160,6 +159,7 @@
         </section>
 
 
+        <!-- 
         <section id="about" class="w3-content w3-container w3-center heading" style="max-width: 600px;">
           <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;">
             <strong>GÄSTEBUCH</strong>
@@ -167,7 +167,7 @@
           <img src="img/schaber.png" class="schaber"/>
 
           <p>Vielen Dank für Ihr Feedback!</p>
-          <!-- Funktioniert leider nicht mit GitHubPages und keiner eigenen, das
+         \\\ Funktioniert leider nicht mit GitHubPages und keiner eigenen, das
             <p>
             Ich würde mich freuen, wenn Sie meine Seite auf Facebook teilen:
           </p>
@@ -177,9 +177,8 @@
             </button>
           </a>
           <div id="disqus_thread"></div>
-          -->
 
-          <div id="disqus_thread"></div>
+        <div id="disqus_thread"></div>
           <script>
 
 
@@ -203,7 +202,8 @@
             Bitte aktivieren Sie JavaScript um die <a href="https://disqus.com/?ref_noscript">Gästebucheinträge von Disqus anzusehen.</a>
           </noscript>
         </section>
-        
+        -->
+
         <div id="impressum" class="w3-modal">
           <div class="w3-modal-content w3-animate-bottom">
             <div class="w3-container w3-center">
@@ -258,6 +258,7 @@
         </div>
 
         <footer class="w3-container w3-center w3-teal w3-xlarge w3-padding-64 w3-center">
+          <!--
           <a href="https://www.facebook.com/kerstin.sternkopf.73" target="_blank" rel="nofollow">
             <i class="fa fa-facebook"></i>
           </a>
@@ -265,6 +266,7 @@
           <a href="mailto:kerstin_sternkopf@web.de" rel="nofollow">
             <i class="fa fa-envelope"></i>
           </a>
+          -->
           <br></br>
           <br></br>
           <p class="w3-medium">
