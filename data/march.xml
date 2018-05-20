@@ -1,74 +1,129 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Reisprofi</name>
-    <starts>05.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>19,90€</price>
-    <saving>10€</saving>
-    <volume>3l</volume>
+    <name>Eco Bottle</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>9,90 €</price>
+    <volume>750 ml</volume>
   </offer>
   <offer number="2">
-    <name>Mess and Go</name>
-    <starts>05.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>19,90€</price>
-    <parts>2</parts>
-    <volume>440ml</volume>
+    <name>Maxi-Twin-Triple</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>19,90 €</price>
+    <saving>2,00 €</saving>
+    <parts>3</parts>
+    <dimensions>22,5x12x7 + 13x10x5 + 10x8x5 cm</dimensions>
   </offer>
   <offer number="3">
-    <name>Multi-Fix</name>
-    <starts>05.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>45€</price>
-    <saving>6,50€</saving>
-    <extras>inkl. Rezeptideen</extras>
-    <volume>730ml</volume>
+    <name>Allegra - Set, grün </name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>49,80 €</price>
+    <saving>12,50 €</saving>
+    <parts>3</parts>
+    <volume>3,5 l + 1,5 l + 740 ml</volume>
   </offer>
   <offer number="4">
-    <name>Tafelperlen-Set</name>
-    <starts>05.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>59,90€</price>
-    <saving>6,80€</saving>
-    <parts>5</parts>
-    <volume>3,5l, 2x450ml, 2x275ml</volume>
+    <name>Allegra, grün 3,5 l</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>26,90 €</price>
+    <volume>3,5 l</volume>
   </offer>
   <offer number="5">
-    <name>Tafelperlen-Set Tauschaktion</name>
-    <starts>05.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>39,90€</price>
-    <saving>26,80€</saving>
-    <parts>5</parts>
-    <volume>3,5l, 2x450ml, 2x275ml</volume>
+    <name>Allegra, grün 1,5 l</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>22,90 €</price>
+    <volume>1,5 l</volume>
   </offer>
   <offer number="6">
-    <name>Minions-Spaß</name>
-    <starts>05.03.2018</starts>
-    <ends>01.04.2018</ends>
-    <price>21,90€</price>
-    <saving>ca. 10€</saving>
-    <parts>4</parts>
-    <volume>350ml</volume>
-    <dimensions>10x8x5cm, 13x10x5cm, 2x 2,5x12x7cm</dimensions>
+    <name>Allegra, grün 740 ml</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>12,50 €</price>
+    <volume>740 ml</volume>
   </offer>
   <offer number="7">
-    <name>Große Runde</name>
-    <starts>05.03.2018</starts>
-    <ends>25.03.2018</ends>
-    <price>30€</price>
-    <saving>34,70€</saving>
-    <parts>3</parts>
-    <volume>4l, 3l, 2l</volume>
+    <name>Lager - Set</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>39,90 €</price>
+    <saving>18,10 €</saving>
+    <parts>2</parts>
+    <volume>8,3 l + 5,5 l</volume>
   </offer>
   <offer number="8">
-    <name>Genossen-Set</name>
-    <starts>05.03.2018</starts>
-    <ends>25.03.2018</ends>
-    <price>30€</price>
-    <saving>17,10€</saving>
+    <name>Kartoffel - King</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>26,50 €</price>
+    <saving>5,00 €</saving>
+    <volume>8,3 l</volume>
+  </offer>
+  <offer number="9">
+    <name>Zwiebi</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>21,50 €</price>
+    <saving>5,00 €</saving>
+    <volume>5,5 l</volume>
+  </offer>
+  <offer number="10">
+    <name>Junior</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>29,90 €</price>
+    <saving>10,00 €</saving>
+    <dimensions>27,8 x 10,08 x 4,7 cm</dimensions>
+  </offer>
+  <offer number="11">
+    <name>Gefrier - Set</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>16,00 €</price>
+    <saving>5,50 €</saving>
+    <parts>4</parts>
+    <volume>4 x 450 ml</volume>
+  </offer>
+  <offer number="12">
+    <name>Grünes Licht</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>0,00 €</price>
+    <saving>33,10 €</saving>
+    <extras>Gastgeberin Dankeschön Partygeschenk</extras>
+    <parts>2</parts>
+    <volume>2,5 l</volume>
+  </offer>
+  <offer number="13">
+    <name>Allegra, Grünes Trio</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>15,00 €</price>
+    <saving>47,30 €</saving>
+    <extras>Partyangebot für Gastgeberin ab 300 € Umsatz</extras>
     <parts>3</parts>
-    <volume>3x 1,7l</volume>
+    <volume>3,5 l + 1,5 l + 740 ml</volume>
+  </offer>
+  <offer number="14">
+    <name>Ultra, 2,0 l</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>25,00 €</price>
+    <saving>59,00 €</saving>
+    <extras>Party-Angebot für Gastgeberin ab 400 € Umsatz + 1 Buchung</extras>
+    <volume>2,0 l</volume>
+  </offer>
+  <offer number="15">
+    <name>Frostie</name>
+    <starts>07.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>0,00 €</price>
+    <saving>8,00 €</saving>
+    <extras>Willkommensgeschenk für alle anwesenden Partygäste</extras>
+    <volume>1,1 l</volume>
   </offer>
 </offers>
