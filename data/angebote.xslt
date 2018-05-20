@@ -57,6 +57,7 @@
 
 
       <body>
+        <!--
         <div id="fb-root"></div>
         <script>
           (function(d, s, id) {
@@ -67,6 +68,7 @@
           fjs.parentNode.insertBefore(js, fjs);
           }(document, 'script', 'facebook-jssdk'));
         </script>
+        -->
 
 
         <nav class="w3-top">
