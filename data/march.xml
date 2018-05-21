@@ -126,4 +126,13 @@
     <extras>Willkommensgeschenk für alle anwesenden Partygäste</extras>
     <volume>1,1 l</volume>
   </offer>
+  <offer number="16">
+    <name>Grüne Helfer</name>
+    <starts>21.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>19,90 €</price>
+    <saving>15,50 €</saving>
+    <parts>2</parts>
+    <volume>2,5 l</volume>
+  </offer>
 </offers>
