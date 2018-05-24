@@ -141,6 +141,10 @@ namespace DataEditor
                 Offers.ExeGit();
                 MessageBox.Show("Veröffentlichen war erfolgreich!", "Erfolgreich!");
             }
+            else
+            {
+                MessageBox.Show("Es sind noch leere Eingaben vorhanden!", "Fehler");
+            }
         }
 
         private void nameTxt_KeyPress(object sender, KeyPressEventArgs e)

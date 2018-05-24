@@ -57,6 +57,7 @@
 
 
       <body>
+        <!--
         <div id="fb-root"></div>
         <script>
           (function(d, s, id) {
@@ -67,6 +68,7 @@
           fjs.parentNode.insertBefore(js, fjs);
           }(document, 'script', 'facebook-jssdk'));
         </script>
+        -->
 
 
         <nav class="w3-top">
@@ -127,12 +129,14 @@
           <p class="w3-left-align">
             Sie wollen meine nächste Gastgeberin sein oder Tupperberaterin werden? Dann kontaktieren Sie mich:
           </p>
-
+          <!--
           <a class="w3-col s6 w3-button w3-pink" rel="nofollow" title="per WhatsApp Kontakt mit Kerstin aufnehmen" href="https://api.whatsapp.com/send?phone=4917691661003&amp;text=Hallo Kerstin, ich möchte gern Kontakt aufnehmen.">
             <i class="fa fa-whatsapp"></i>
             Kontaktieren
           </a>
           <a class="w3-col s6 w3-button w3-teal" rel="nofollow" title="per Mailprogramm Kontakt mit Kerstin aufnehmen" href="mailto:kerstin_sternkopf@web.de?subject=Kontaktanfrage Tupperware&amp;body=Hallo Kerstin, ich möchte gern Kontakt aufnehmen.">
+          -->
+          <a class="w3-col w3-button w3-pink" rel="nofollow" title="per Mailprogramm Kontakt mit Kerstin aufnehmen" href="mailto:kerstin_sternkopf@web.de?subject=Kontaktanfrage Tupperware&amp;body=Hallo Kerstin, ich möchte gern Kontakt aufnehmen.">
             <i class="fa fa-envelope"></i>
             Kontaktieren
           </a>
@@ -149,7 +153,6 @@
 
         </div>
 
-
         <section id="about" class="w3-content w3-container w3-center heading" style="max-width: 400px;">
           <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;">
             <strong>ÜBER MICH</strong>
@@ -160,6 +163,7 @@
         </section>
 
 
+        <!-- 
         <section id="about" class="w3-content w3-container w3-center heading" style="max-width: 600px;">
           <h1 class="w3-padding-16 w3-center w3-text-teal" style="padding-bottom: 0px; margin-bottom: 0px;">
             <strong>GÄSTEBUCH</strong>
@@ -167,7 +171,7 @@
           <img src="img/schaber.png" class="schaber"/>
 
           <p>Vielen Dank für Ihr Feedback!</p>
-          <!-- Funktioniert leider nicht mit GitHubPages und keiner eigenen, das
+         \\\ Funktioniert leider nicht mit GitHubPages und keiner eigenen, das
             <p>
             Ich würde mich freuen, wenn Sie meine Seite auf Facebook teilen:
           </p>
@@ -177,9 +181,8 @@
             </button>
           </a>
           <div id="disqus_thread"></div>
-          -->
 
-          <div id="disqus_thread"></div>
+        <div id="disqus_thread"></div>
           <script>
 
 
@@ -203,7 +206,7 @@
             Bitte aktivieren Sie JavaScript um die <a href="https://disqus.com/?ref_noscript">Gästebucheinträge von Disqus anzusehen.</a>
           </noscript>
         </section>
-        
+
         <div id="impressum" class="w3-modal">
           <div class="w3-modal-content w3-animate-bottom">
             <div class="w3-container w3-center">
@@ -227,21 +230,12 @@
 				<p>Stefan Taubert<br></br>
 				<a href="http://www.stefantaubert.com/" target="_blank">http://www.stefantaubert.com/</a>
 				</p>
-				
                 <h3>Datenschutz allgemein</h3>
+                <p>
+                  Die Datenschutzerklärung finden Sie hier: <a href="datenschutz.html">Datenschutzerklärung</a>
+                </p>
                 <h4>Bildquellen</h4>
                 <p>Alle Angebotsbilder stammen aus den jeweiligen Tupperware Katalogen (<a href="https://www.tupperware.de/" rel="nofollow" target="_blank">Tupperware Startseite aufrufen</a>).</p>
-                <h4>Disqus-Kommentarsystem</h4>
-                <p>
-                  Die Disqus-Kommentierungsfunktion wird von der Big Head Labs, Inc., San Francisco, USA als Dienstleistung zur Verfügung gestellt. Disqus ist ein interaktives Kommentarsystem, das es dem Nutzer ermöglicht, mit nur einer Anmeldung auf allen Internetangeboten, die Disqus als Kommentarsystem verwenden, zu kommentieren. Außerdem können sich die Nutzer über bestehende Accounts bei Facebook (über Facebook Connect), Twitter, Yahoo und OpenID anmelden. Auch die Erstellung von Kommentare ohne Registrierung und Anmeldung (als “Gast”) ist möglich. Nähere Informationen zu Disqus und seinen Funktionen finden Sie unter www.disqus.com.
-                </p>
-                <p>
-                  Ihre Daten werden von Disqus verarbeitet und auf Systemen von Disqus gespeichert. Für die Erhebung, Verarbeitung und Nutzung der betreffenden Daten gelten die Nutzungsbedingungen und Datenschutzhinweise von Disqus, zu finden unter <a href="http://docs.disqus.com/help/30/" rel="nofollow" target="_blank" >hier</a> und <a href="http://docs.disqus.com/help/29/" rel="nofollow" target="_blank" >hier</a>. Wenn Sie sich über Ihren Facebook-, Twitter-, Yahoo- oder OpenID-Account anmelden, werden auch von diesen Anbietern möglicherweise Daten erhoben, gespeichert und genutzt. Einzelheiten dazu finden sich in den Datenschutzbestimmungen des jeweiligen Anbieters.
-                </p>
-                <i>
-                  Quelle: <a href="https://www.ambiverse.com/datenschutz/" target="_blank" rel="nofollow">https://www.ambiverse.com/datenschutz/</a>
-                </i>
-
                 <h3>Haftungsauschluss</h3>
                 <h4>Haftung für Inhalte</h4>
                 <p>Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</p>
@@ -261,8 +255,10 @@
             </div>
           </div>
         </div>
+        -->
 
         <footer class="w3-container w3-center w3-teal w3-xlarge w3-padding-64 w3-center">
+          <!--
           <a href="https://www.facebook.com/kerstin.sternkopf.73" target="_blank" rel="nofollow">
             <i class="fa fa-facebook"></i>
           </a>
@@ -272,8 +268,10 @@
           </a>
           <br></br>
           <br></br>
+          -->
           <p class="w3-medium">
-            © 2018 by Kerstin Sternkopf | <a href="javascript:void(0)" onclick="document.getElementById('impressum').style.display='block'">Impressum</a>
+            <!--© 2018 by Kerstin Sternkopf | <a href="javascript:void(0)" onclick="document.getElementById('impressum').style.display='block'">Impressum</a> | <a href="datenschutz.html">Datenschutz</a>-->
+            © 2018 by Kerstin Sternkopf | <a href="impressum.html">Impressum</a> | <a href="datenschutz.html">Datenschutz</a>
           </p>
         </footer>
         
@@ -369,6 +367,7 @@
         </xsl:if>
 
         <div class="w3-row" style="width: 100%">
+          <!--
           <a class="w3-col s6 w3-button w3-pink" rel="nofollow" title="per WhatsApp Kontakt mit Kerstin aufnehmen">
             <xsl:attribute name="href">
               <xsl:text>https://api.whatsapp.com/send?phone=4917691661003&amp;text=Hallo ich interessiere mich für: </xsl:text>
@@ -378,6 +377,8 @@
             Kontaktieren
           </a>
           <a class="w3-col s6 w3-button w3-teal" rel="nofollow" title="per Mailprogramm Kontakt mit Kerstin aufnehmen">
+          -->
+          <a class="w3-col w3-button w3-teal" rel="nofollow" title="per Mailprogramm Kontakt mit Kerstin aufnehmen">
             <xsl:attribute name="href">
               <xsl:text>mailto:kerstin_sternkopf@web.de?subject=Interesse für </xsl:text>
               <xsl:value-of select="name"/>

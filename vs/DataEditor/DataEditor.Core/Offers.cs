@@ -13,6 +13,7 @@ using System.Xml.XPath;
 using System.Xml.Xsl;
 using DataEditor.Core.Properties;
 using System.Diagnostics;
+using System.Windows.Forms;
 
 namespace DataEditor.Core
 {
@@ -29,7 +30,7 @@ namespace DataEditor.Core
         {
             string gitCommand = "git";
             string gitAddArgument = @"add -A";
-            string gitCommitArgument = @"commit ""Seitenupdate vom "+ DateTime.Now.ToLongTimeString() + @""" ";
+            string gitCommitArgument = @"commit ""Seitenupdate vom " + DateTime.Now.ToLongTimeString() + @""" ";
             string gitPushArgument = @"push remote:remote";
 
             Process.Start(gitCommand, gitAddArgument);
@@ -68,8 +69,8 @@ namespace DataEditor.Core
             gitProcess.StartInfo = gitInfo;
             gitProcess.Start();
 
-            stderr_str = gitProcess.StandardError.ReadToEnd();  // pick up STDERR
-            stdout_str = gitProcess.StandardOutput.ReadToEnd(); // pick up STDOUT
+            stderr_str += gitProcess.StandardError.ReadToEnd();  // pick up STDERR
+            stdout_str += gitProcess.StandardOutput.ReadToEnd(); // pick up STDOUT
 
             gitProcess.WaitForExit();
             gitProcess.Close();
@@ -83,11 +84,18 @@ namespace DataEditor.Core
             gitProcess.StartInfo = gitInfo;
             gitProcess.Start();
 
-            stderr_str = gitProcess.StandardError.ReadToEnd();  // pick up STDERR
-            stdout_str = gitProcess.StandardOutput.ReadToEnd(); // pick up STDOUT
+            stderr_str += gitProcess.StandardError.ReadToEnd();  // pick up STDERR
+            stdout_str += gitProcess.StandardOutput.ReadToEnd(); // pick up STDOUT
 
             gitProcess.WaitForExit();
             gitProcess.Close();
+
+            using (EventLog eventLog = new EventLog("Application"))
+            {
+                eventLog.Source = "Application";
+                eventLog.WriteEntry(stderr_str, EventLogEntryType.Information);
+                eventLog.WriteEntry(stdout_str, EventLogEntryType.Information);
+            }
         }
 
         public static void GenerateFile()
@@ -99,36 +107,44 @@ namespace DataEditor.Core
 
         public static List<Offer> ParseByXDocument()
         {
-            var res = new List<Offer>();
-            var offers = new Offers();
-            XDocument doc = XDocument.Load(pathXml);
-            var decendants = doc.Descendants("offer").ToList();
-            for (int i = 0; i < decendants.Count; i++)
+            try
             {
-                var item = decendants[i];
-                var offer = new Offer();
-
-                offer.Name = item.Element("name").Value;
-                offer.Price = item.Element("price").Value;
-                offer.Saving = item.Element("saving")?.Value;
-                offer.Volume = item.Element("volume")?.Value;
-                offer.Dimensions = item.Element("dimensions")?.Value;
-                offer.Extras = item.Element("extras")?.Value;
-                offer.Starts = Convert.ToDateTime(item.Element("starts").Value, CultureInfo.GetCultureInfo("de-DE"));
-                offer.Ends = Convert.ToDateTime(item.Element("ends").Value, CultureInfo.GetCultureInfo("de-DE"));
-                offer.Parts = item.Element("parts")?.Value;
-                var imgPath = Path.Combine(pathImgDir, (i + 1).ToString() + ".png");
-                Image img;
-                using (var bmpTemp = new Bitmap(imgPath))
+                var res = new List<Offer>();
+                var offers = new Offers();
+                XDocument doc = XDocument.Load(pathXml);
+                var decendants = doc.Descendants("offer").ToList();
+                for (int i = 0; i < decendants.Count; i++)
                 {
-                    img = new Bitmap(bmpTemp);
+                    var item = decendants[i];
+                    var offer = new Offer();
+
+                    offer.Name = item.Element("name").Value;
+                    offer.Price = item.Element("price").Value;
+                    offer.Saving = item.Element("saving")?.Value;
+                    offer.Volume = item.Element("volume")?.Value;
+                    offer.Dimensions = item.Element("dimensions")?.Value;
+                    offer.Extras = item.Element("extras")?.Value;
+                    offer.Starts = Convert.ToDateTime(item.Element("starts").Value, CultureInfo.GetCultureInfo("de-DE"));
+                    offer.Ends = Convert.ToDateTime(item.Element("ends").Value, CultureInfo.GetCultureInfo("de-DE"));
+                    offer.Parts = item.Element("parts")?.Value;
+                    var imgPath = Path.Combine(pathImgDir, (i + 1).ToString() + ".png");
+                    Image img;
+                    using (var bmpTemp = new Bitmap(imgPath))
+                    {
+                        img = new Bitmap(bmpTemp);
+                    }
+
+                    offer.Img = img;
+                    res.Add(offer);
                 }
 
-                offer.Img = img;
-                res.Add(offer);
+                return res;
             }
-
-            return res;
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                throw;
+            }
         }
 
         public static bool AreValid(List<Offer> list)
@@ -160,6 +176,9 @@ namespace DataEditor.Core
                 offer.Add(new XElement("ends", current.Ends.ToString(new CultureInfo("de-DE", false).DateTimeFormat.ShortDatePattern)));
                 offer.Add(new XElement("price", current.Price));
 
+                var imgPath = Path.Combine(pathImgDir, (i + 1).ToString() + ".png");
+                current.Img.Save(imgPath, ImageFormat.Png);
+
                 if (!string.IsNullOrWhiteSpace(current.Saving))
                 {
                     offer.Add(new XElement("saving", current.Saving));
@@ -182,12 +201,6 @@ namespace DataEditor.Core
                 if (!string.IsNullOrWhiteSpace(current.Dimensions))
                 {
                     offer.Add(new XElement("dimensions", current.Dimensions));
-                }
-
-                if (current.Img != null)
-                {
-                    var imgPath = Path.Combine(pathImgDir, (i + 1).ToString() + ".png");
-                    current.Img.Save(imgPath, ImageFormat.Png);
                 }
 
                 root.Add(offer);
