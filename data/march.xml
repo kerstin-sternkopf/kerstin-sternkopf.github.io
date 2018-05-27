@@ -136,12 +136,12 @@
     <volume>2,5 l</volume>
   </offer>
   <offer number="17">
-    <name>Die Maxe</name>
-    <starts>21.05.2018</starts>
-    <ends>27.05.2018</ends>
-    <price>35,00 €</price>
-    <saving>19,90 €</saving>
-    <parts>2</parts>
-    <dimensions>31,4 x 11,2 x 16,6 + 16,0 x 16,0 x 7,5 cm</dimensions>
+    <name>Kühl - Turm</name>
+    <starts>28.05.2018</starts>
+    <ends>03.06.2018</ends>
+    <price>34,00 €</price>
+    <saving>34,00 €</saving>
+    <parts>4</parts>
+    <volume>2 x 1,5 l + 2 x 700 ml</volume>
   </offer>
 </offers>
