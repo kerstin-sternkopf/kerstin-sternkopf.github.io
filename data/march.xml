@@ -6,7 +6,7 @@
     <ends>17.06.2018</ends>
     <price>19,90 €</price>
     <saving>ca. 20 €</saving>
-    <parts>mindestens 2 </parts>
+    <parts>mind. 2</parts>
     <dimensions>28,5 cm x 3 cm</dimensions>
   </offer>
   <offer number="2">
@@ -14,6 +14,7 @@
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
     <price>5,00 € oder 10,00 € </price>
+    <parts>Nur solange Vorrat reicht!</parts>
     <volume>1 l</volume>
   </offer>
   <offer number="3">
@@ -21,6 +22,7 @@
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
     <price>34,90 €</price>
+    <parts>Nur solange Vorrat reicht!</parts>
     <dimensions>ca. 39 cm</dimensions>
   </offer>
   <offer number="4">
@@ -76,6 +78,7 @@
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
     <price>10,50 €</price>
+    <parts>Nur solange Vorrat reicht!</parts>
     <volume>360 ml</volume>
   </offer>
   <offer number="11">
@@ -83,6 +86,7 @@
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
     <price>16,90 €</price>
+    <parts>Nur jetzt!</parts>
     <dimensions>Ø 11,2 / Ø 9,1 / Ø 11,4 cm</dimensions>
   </offer>
   <offer number="12">
