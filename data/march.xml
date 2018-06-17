@@ -1,15 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Fußballüberraschungstüte</name>
-    <starts>04.06.2018</starts>
-    <ends>17.06.2018</ends>
-    <price>19,90 €</price>
-    <saving>ca. 20 €</saving>
-    <parts>mind. 2</parts>
-    <dimensions>28,5 cm x 3 cm</dimensions>
-  </offer>
-  <offer number="2">
     <name>Quadro</name>
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
@@ -17,7 +8,7 @@
     <extras>Nur solange Vorrat reicht!</extras>
     <volume>1 l</volume>
   </offer>
-  <offer number="3">
+  <offer number="2">
     <name>Chef - Serie, Grillzange</name>
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
@@ -25,21 +16,21 @@
     <extras>Nur solange Vorrat reicht!</extras>
     <dimensions>ca. 39 cm</dimensions>
   </offer>
-  <offer number="4">
+  <offer number="3">
     <name>Silikonform, Ecki</name>
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
     <price>24,90 €</price>
     <dimensions>17,7 x 24,7 x 2,35 cm</dimensions>
   </offer>
-  <offer number="5">
+  <offer number="4">
     <name>Rezeptheft "Halbes Blech, ganzer Genuss"</name>
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
     <price>4,90 €</price>
     <volume>36 Seiten</volume>
   </offer>
-  <offer number="6">
+  <offer number="5">
     <name>Cool Mates</name>
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
@@ -47,7 +38,7 @@
     <parts>2</parts>
     <volume>4,4 l + 1,8 l</volume>
   </offer>
-  <offer number="7">
+  <offer number="6">
     <name>Ultra </name>
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
@@ -56,7 +47,7 @@
     <extras>inkl. Rezeptheft</extras>
     <volume>3,3 l</volume>
   </offer>
-  <offer number="8">
+  <offer number="7">
     <name>Tauschaktion alt gegen neu</name>
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
@@ -64,7 +55,7 @@
     <saving>24,90 €</saving>
     <dimensions>Ø 31,5 cm</dimensions>
   </offer>
-  <offer number="9">
+  <offer number="8">
     <name>Maximilian - Set</name>
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
@@ -73,7 +64,7 @@
     <parts>3</parts>
     <volume>10 l, 4,5 l, 2,75 l</volume>
   </offer>
-  <offer number="10">
+  <offer number="9">
     <name>Spender</name>
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
@@ -81,7 +72,7 @@
     <extras>Nur solange Vorrat reicht!</extras>
     <volume>360 ml</volume>
   </offer>
-  <offer number="11">
+  <offer number="10">
     <name>Pattie - Mattie</name>
     <starts>04.06.2018</starts>
     <ends>01.07.2018</ends>
@@ -89,12 +80,20 @@
     <extras>Nur jetzt!</extras>
     <dimensions>Ø 11,2 / Ø 9,1 / Ø 11,4 cm</dimensions>
   </offer>
+  <offer number="11">
+    <name>Eigenossen Plus, Set</name>
+    <starts>18.06.2018</starts>
+    <ends>24.06.2018</ends>
+    <price>30,00 €</price>
+    <saving>15 €</saving>
+    <parts>3</parts>
+    <volume>3 x 1,6 l</volume>
+  </offer>
   <offer number="12">
-    <name>Basis - Chef</name>
-    <starts>04.06.2018</starts>
-    <ends>17.06.2018</ends>
-    <price>55,00 €</price>
-    <extras>inkl. Rezeptheft   /   Nur solange Vorrat reicht!</extras>
-    <volume>1,35 l</volume>
+    <name>Eingenosse Plus 1,6 l</name>
+    <starts>11.06.2018</starts>
+    <ends>24.06.2018</ends>
+    <price>15,00 €</price>
+    <volume>1,6 l</volume>
   </offer>
 </offers>
