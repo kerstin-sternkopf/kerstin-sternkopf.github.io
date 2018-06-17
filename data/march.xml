@@ -96,4 +96,18 @@
     <price>15,00 €</price>
     <volume>1,6 l</volume>
   </offer>
+  <offer number="13">
+    <name>Mega Bowl</name>
+    <starts>18.06.2018</starts>
+    <ends>24.06.2018</ends>
+    <price>25,00 €</price>
+    <volume>14 l</volume>
+  </offer>
+  <offer number="14">
+    <name>Zuckerhut</name>
+    <starts>18.06.2018</starts>
+    <ends>24.06.2018</ends>
+    <price>10,00 €</price>
+    <volume>300 ml</volume>
+  </offer>
 </offers>
