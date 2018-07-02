@@ -1,113 +1,115 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Quadro</name>
-    <starts>04.06.2018</starts>
-    <ends>01.07.2018</ends>
-    <price>5,00 € oder 10,00 € </price>
-    <extras>Nur solange Vorrat reicht!</extras>
-    <volume>1 l</volume>
+    <name>Tropical-Set, groß</name>
+    <starts>02.07.2018</starts>
+    <ends>15.07.2018</ends>
+    <price>69,90 €</price>
+    <saving>23,70 €</saving>
+    <parts>6</parts>
+    <volume>6,6 4,3 2,5 0,8 0,5 0,35 l</volume>
   </offer>
   <offer number="2">
-    <name>Chef - Serie, Grillzange</name>
-    <starts>04.06.2018</starts>
-    <ends>01.07.2018</ends>
-    <price>34,90 €</price>
-    <extras>Nur solange Vorrat reicht!</extras>
-    <dimensions>ca. 39 cm</dimensions>
+    <name>6,6 l Tropical</name>
+    <starts>02.07.2018</starts>
+    <ends>15.07.2018</ends>
+    <price>29,90 €</price>
+    <volume>6,6 l</volume>
   </offer>
   <offer number="3">
-    <name>Silikonform, Ecki</name>
-    <starts>04.06.2018</starts>
-    <ends>01.07.2018</ends>
-    <price>24,90 €</price>
-    <dimensions>17,7 x 24,7 x 2,35 cm</dimensions>
+    <name>4,3 l Tropical</name>
+    <starts>02.07.2018</starts>
+    <ends>15.07.2018</ends>
+    <price>21,90 €</price>
+    <volume>4,3 l</volume>
   </offer>
   <offer number="4">
-    <name>Rezeptheft "Halbes Blech, ganzer Genuss"</name>
-    <starts>04.06.2018</starts>
-    <ends>01.07.2018</ends>
-    <price>4,90 €</price>
-    <volume>36 Seiten</volume>
+    <name>2,5 l Tropical</name>
+    <starts>02.07.2018</starts>
+    <ends>15.07.2018</ends>
+    <price>16,90 €</price>
+    <volume>2,5 l</volume>
   </offer>
   <offer number="5">
-    <name>Cool Mates</name>
-    <starts>04.06.2018</starts>
-    <ends>01.07.2018</ends>
-    <price>29,90 €</price>
-    <parts>2</parts>
-    <volume>4,4 l + 1,8 l</volume>
+    <name>Tropical-Set, klein24,90 €</name>
+    <starts>02.07.2018</starts>
+    <ends>15.07.2018</ends>
+    <price>24,90 €</price>
+    <parts>3</parts>
+    <volume>800 ml, 550 ml, 350 ml</volume>
   </offer>
   <offer number="6">
-    <name>Ultra </name>
-    <starts>04.06.2018</starts>
-    <ends>01.07.2018</ends>
-    <price>99,90 €</price>
-    <saving>24,10 €</saving>
-    <extras>inkl. Rezeptheft</extras>
-    <volume>3,3 l</volume>
+    <name>Sieb-Servierer</name>
+    <starts>02.07.2018</starts>
+    <ends>15.07.2018</ends>
+    <price>19,90 €</price>
   </offer>
   <offer number="7">
-    <name>Tauschaktion alt gegen neu</name>
-    <starts>04.06.2018</starts>
-    <ends>01.07.2018</ends>
-    <price>25,00 €</price>
-    <saving>24,90 €</saving>
-    <dimensions>Ø 31,5 cm</dimensions>
+    <name>Ergonomica-Set</name>
+    <starts>02.07.2018</starts>
+    <ends>29.07.2018</ends>
+    <price>39,90 €</price>
+    <saving>14,80 €</saving>
+    <parts>3</parts>
+    <volume>4,3 2,5 0,55 l</volume>
   </offer>
   <offer number="8">
-    <name>Maximilian - Set</name>
-    <starts>04.06.2018</starts>
-    <ends>01.07.2018</ends>
-    <price>49,80 €</price>
-    <saving>17,80 €</saving>
-    <parts>3</parts>
-    <volume>10 l, 4,5 l, 2,75 l</volume>
+    <name>4,3 l Ergonomica</name>
+    <starts>02.07.2018</starts>
+    <ends>29.07.2018</ends>
+    <price>24,90 €</price>
+    <volume>4,3 l</volume>
   </offer>
   <offer number="9">
-    <name>Spender</name>
-    <starts>04.06.2018</starts>
-    <ends>01.07.2018</ends>
-    <price>10,50 €</price>
-    <extras>Nur solange Vorrat reicht!</extras>
-    <volume>360 ml</volume>
+    <name>2,5 l Ergonomica</name>
+    <starts>02.07.2018</starts>
+    <ends>29.07.2018</ends>
+    <price>19,90 €</price>
+    <volume>2,5 l</volume>
   </offer>
   <offer number="10">
-    <name>Pattie - Mattie</name>
-    <starts>04.06.2018</starts>
-    <ends>01.07.2018</ends>
-    <price>16,90 €</price>
-    <extras>Nur jetzt!</extras>
-    <dimensions>Ø 11,2 / Ø 9,1 / Ø 11,4 cm</dimensions>
+    <name>550 ml Ergonomica</name>
+    <starts>02.07.2018</starts>
+    <ends>29.07.2018</ends>
+    <price>9,90 €</price>
+    <volume>550 ml</volume>
   </offer>
   <offer number="11">
-    <name>Eidgenossen Plus, Set</name>
-    <starts>18.06.2018</starts>
-    <ends>24.06.2018</ends>
-    <price>30,00 €</price>
-    <saving>15 €</saving>
-    <parts>3</parts>
-    <volume>3 x 1,6 l</volume>
+    <name>Mandao-Meister</name>
+    <starts>02.07.2018</starts>
+    <ends>29.07.2018</ends>
+    <price>69,90 €</price>
+    <saving>25,10 €</saving>
+    <extras>inkl. Rezeptheft</extras>
+    <dimensions>35,5 x 14,6 x 8,1 cm</dimensions>
   </offer>
   <offer number="12">
-    <name>Eidgenosse Plus 1,6 l</name>
-    <starts>11.06.2018</starts>
-    <ends>24.06.2018</ends>
-    <price>15,00 €</price>
-    <volume>1,6 l</volume>
+    <name>Multi-Öffner</name>
+    <starts>02.07.2018</starts>
+    <ends>29.07.2018</ends>
+    <price>12,50 €</price>
+    <parts>Nur solange Vorrat reicht</parts>
+    <dimensions>18,7 cm</dimensions>
   </offer>
   <offer number="13">
-    <name>Mega Bowl</name>
-    <starts>18.06.2018</starts>
-    <ends>24.06.2018</ends>
-    <price>25,00 €</price>
-    <volume>14 l</volume>
+    <name>Universal-Behälter</name>
+    <starts>02.07.2018</starts>
+    <ends>29.07.2018</ends>
+    <price>24,90 €</price>
+    <volume>3,0 l</volume>
   </offer>
   <offer number="14">
-    <name>Zuckerhut</name>
-    <starts>18.06.2018</starts>
-    <ends>24.06.2018</ends>
-    <price>10,00 €</price>
-    <volume>300 ml</volume>
+    <name>Freshi</name>
+    <starts>02.07.2018</starts>
+    <ends>29.07.2018</ends>
+    <price>16,90 €</price>
+    <volume>2,0 l</volume>
+  </offer>
+  <offer number="15">
+    <name>Kochbuch "Das Upgrade für die Mikrowelle"</name>
+    <starts>02.07.2018</starts>
+    <ends>29.07.2018</ends>
+    <price>7,90 €</price>
+    <volume>64 Seiten</volume>
   </offer>
 </offers>
