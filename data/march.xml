@@ -1,50 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Tropical-Set, groß</name>
-    <starts>02.07.2018</starts>
-    <ends>15.07.2018</ends>
-    <price>69,90 €</price>
-    <saving>23,70 €</saving>
-    <parts>6</parts>
-    <volume>6,6 4,3 2,5 0,8 0,5 0,35 l</volume>
-  </offer>
-  <offer number="2">
-    <name>6,6 l Tropical</name>
-    <starts>02.07.2018</starts>
-    <ends>15.07.2018</ends>
-    <price>29,90 €</price>
-    <volume>6,6 l</volume>
-  </offer>
-  <offer number="3">
-    <name>4,3 l Tropical</name>
-    <starts>02.07.2018</starts>
-    <ends>15.07.2018</ends>
-    <price>21,90 €</price>
-    <volume>4,3 l</volume>
-  </offer>
-  <offer number="4">
-    <name>2,5 l Tropical</name>
-    <starts>02.07.2018</starts>
-    <ends>15.07.2018</ends>
-    <price>16,90 €</price>
-    <volume>2,5 l</volume>
-  </offer>
-  <offer number="5">
-    <name>Tropical-Set, klein24,90 €</name>
-    <starts>02.07.2018</starts>
-    <ends>15.07.2018</ends>
-    <price>24,90 €</price>
-    <parts>3</parts>
-    <volume>800 ml, 550 ml, 350 ml</volume>
-  </offer>
-  <offer number="6">
-    <name>Sieb-Servierer</name>
-    <starts>02.07.2018</starts>
-    <ends>15.07.2018</ends>
-    <price>19,90 €</price>
-  </offer>
-  <offer number="7">
     <name>Ergonomica-Set</name>
     <starts>02.07.2018</starts>
     <ends>29.07.2018</ends>
@@ -53,28 +9,28 @@
     <parts>3</parts>
     <volume>4,3 2,5 0,55 l</volume>
   </offer>
-  <offer number="8">
+  <offer number="2">
     <name>4,3 l Ergonomica</name>
     <starts>02.07.2018</starts>
     <ends>29.07.2018</ends>
     <price>24,90 €</price>
     <volume>4,3 l</volume>
   </offer>
-  <offer number="9">
+  <offer number="3">
     <name>2,5 l Ergonomica</name>
     <starts>02.07.2018</starts>
     <ends>29.07.2018</ends>
     <price>19,90 €</price>
     <volume>2,5 l</volume>
   </offer>
-  <offer number="10">
+  <offer number="4">
     <name>550 ml Ergonomica</name>
     <starts>02.07.2018</starts>
     <ends>29.07.2018</ends>
     <price>9,90 €</price>
     <volume>550 ml</volume>
   </offer>
-  <offer number="11">
+  <offer number="5">
     <name>Mandao-Meister</name>
     <starts>02.07.2018</starts>
     <ends>29.07.2018</ends>
@@ -83,7 +39,7 @@
     <extras>inkl. Rezeptheft</extras>
     <dimensions>35,5 x 14,6 x 8,1 cm</dimensions>
   </offer>
-  <offer number="12">
+  <offer number="6">
     <name>Multi-Öffner</name>
     <starts>02.07.2018</starts>
     <ends>29.07.2018</ends>
@@ -91,25 +47,41 @@
     <parts>Nur solange Vorrat reicht</parts>
     <dimensions>18,7 cm</dimensions>
   </offer>
-  <offer number="13">
+  <offer number="7">
     <name>Universal-Behälter</name>
     <starts>02.07.2018</starts>
     <ends>29.07.2018</ends>
     <price>24,90 €</price>
     <volume>3,0 l</volume>
   </offer>
-  <offer number="14">
+  <offer number="8">
     <name>Freshi</name>
     <starts>02.07.2018</starts>
     <ends>29.07.2018</ends>
     <price>16,90 €</price>
     <volume>2,0 l</volume>
   </offer>
-  <offer number="15">
+  <offer number="9">
     <name>Kochbuch "Das Upgrade für die Mikrowelle"</name>
     <starts>02.07.2018</starts>
     <ends>29.07.2018</ends>
     <price>7,90 €</price>
     <volume>64 Seiten</volume>
+  </offer>
+  <offer number="10">
+    <name>Sonnige Pausenzeit</name>
+    <starts>16.07.2018</starts>
+    <ends>29.07.2018</ends>
+    <price>15,00 €</price>
+    <parts>2</parts>
+    <volume>Beh. 550 ml + Fl. 750 ml </volume>
+  </offer>
+  <offer number="11">
+    <name>Blaue Pausenzeit</name>
+    <starts>16.07.2018</starts>
+    <ends>29.07.2018</ends>
+    <price>15,00 €</price>
+    <parts>2</parts>
+    <volume>Beh. 550 ml + Fl. 750 ml</volume>
   </offer>
 </offers>
