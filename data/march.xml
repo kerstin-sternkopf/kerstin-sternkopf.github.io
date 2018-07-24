@@ -84,4 +84,13 @@
     <parts>2</parts>
     <volume>Beh. 550 ml + Fl. 750 ml</volume>
   </offer>
+  <offer number="12">
+    <name>Überraschungstüte Nur diese Woche!!</name>
+    <starts>23.07.2018</starts>
+    <ends>29.07.2018</ends>
+    <price>24,90 €</price>
+    <saving>mind. 25 €</saving>
+    <extras>Gesamtwert Tupperwareinhalt 50 €</extras>
+    <volume>3 x 1,1 l</volume>
+  </offer>
 </offers>
