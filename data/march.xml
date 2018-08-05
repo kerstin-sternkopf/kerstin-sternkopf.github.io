@@ -1,96 +1,70 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Ergonomica-Set</name>
-    <starts>02.07.2018</starts>
-    <ends>29.07.2018</ends>
-    <price>39,90 €</price>
-    <saving>14,80 €</saving>
-    <parts>3</parts>
-    <volume>4,3 2,5 0,55 l</volume>
+    <name>Naschkätzchen-Überraschungstüte</name>
+    <starts>30.07.2018</starts>
+    <ends>19.08.2018</ends>
+    <price>29,90 €</price>
+    <saving>ca. 20 €</saving>
+    <parts>mind. 2</parts>
+    <dimensions>21 x 17 x 8</dimensions>
   </offer>
   <offer number="2">
-    <name>4,3 l Ergonomica</name>
-    <starts>02.07.2018</starts>
-    <ends>29.07.2018</ends>
-    <price>24,90 €</price>
-    <volume>4,3 l</volume>
+    <name>Mocktail - Set</name>
+    <starts>30.07.2018</starts>
+    <ends>02.09.2018</ends>
+    <price>39,90 €</price>
+    <saving>8,00 €</saving>
+    <parts>5</parts>
+    <volume>600 ml</volume>
   </offer>
   <offer number="3">
-    <name>2,5 l Ergonomica</name>
-    <starts>02.07.2018</starts>
-    <ends>29.07.2018</ends>
-    <price>19,90 €</price>
-    <volume>2,5 l</volume>
+    <name>Multi -Grill</name>
+    <starts>30.07.2018</starts>
+    <ends>19.08.2018</ends>
+    <price>199,00 €</price>
+    <saving>50,00 €</saving>
+    <volume>1,5 l</volume>
   </offer>
   <offer number="4">
-    <name>550 ml Ergonomica</name>
-    <starts>02.07.2018</starts>
-    <ends>29.07.2018</ends>
-    <price>9,90 €</price>
-    <volume>550 ml</volume>
+    <name>Großes Naschkätzchebn</name>
+    <starts>30.07.2018</starts>
+    <ends>02.09.2018</ends>
+    <price>19,90 €</price>
+    <dimensions>21 x 30 x 10 cm</dimensions>
   </offer>
   <offer number="5">
-    <name>Mandao-Meister</name>
-    <starts>02.07.2018</starts>
-    <ends>29.07.2018</ends>
-    <price>69,90 €</price>
-    <saving>25,10 €</saving>
-    <extras>inkl. Rezeptheft</extras>
-    <dimensions>35,5 x 14,6 x 8,1 cm</dimensions>
+    <name>Venezia</name>
+    <starts>30.07.2018</starts>
+    <ends>02.09.2018</ends>
+    <price>29,90 €</price>
+    <dimensions>20 cm</dimensions>
   </offer>
   <offer number="6">
-    <name>Multi-Öffner</name>
-    <starts>02.07.2018</starts>
-    <ends>29.07.2018</ends>
-    <price>12,50 €</price>
-    <parts>Nur solange Vorrat reicht</parts>
-    <dimensions>18,7 cm</dimensions>
+    <name>Kleiner Hit</name>
+    <starts>30.07.2018</starts>
+    <ends>02.09.2018</ends>
+    <price>16,90 €</price>
+    <saving>7,00 €</saving>
+    <parts>4</parts>
+    <volume>je 300 ml</volume>
   </offer>
   <offer number="7">
-    <name>Universal-Behälter</name>
-    <starts>02.07.2018</starts>
-    <ends>29.07.2018</ends>
-    <price>24,90 €</price>
-    <volume>3,0 l</volume>
+    <name>Multi</name>
+    <starts>30.07.2018</starts>
+    <ends>02.09.2018</ends>
+    <price>45,00 €</price>
+    <saving>6,50 €</saving>
+    <extras>inkl. Rezeptideen</extras>
+    <volume>730 ml</volume>
   </offer>
   <offer number="8">
-    <name>Freshi</name>
-    <starts>02.07.2018</starts>
-    <ends>29.07.2018</ends>
-    <price>16,90 €</price>
-    <volume>2,0 l</volume>
-  </offer>
-  <offer number="9">
-    <name>Kochbuch "Das Upgrade für die Mikrowelle"</name>
-    <starts>02.07.2018</starts>
-    <ends>29.07.2018</ends>
-    <price>7,90 €</price>
-    <volume>64 Seiten</volume>
-  </offer>
-  <offer number="10">
-    <name>Sonnige Pausenzeit</name>
-    <starts>16.07.2018</starts>
-    <ends>29.07.2018</ends>
-    <price>15,00 €</price>
-    <parts>2</parts>
-    <volume>Beh. 550 ml + Fl. 750 ml </volume>
-  </offer>
-  <offer number="11">
-    <name>Blaue Pausenzeit</name>
-    <starts>16.07.2018</starts>
-    <ends>29.07.2018</ends>
-    <price>15,00 €</price>
-    <parts>2</parts>
-    <volume>Beh. 550 ml + Fl. 750 ml</volume>
-  </offer>
-  <offer number="12">
-    <name>Überraschungstüte Nur diese Woche!!</name>
-    <starts>23.07.2018</starts>
-    <ends>29.07.2018</ends>
-    <price>24,90 €</price>
-    <saving>mind. 25 €</saving>
-    <extras>Gesamtwert Tupperwareinhalt 50 €</extras>
-    <volume>3 x 1,1 l</volume>
+    <name>Dankeschön Party-Geschenk für Gastgeberin</name>
+    <starts>30.07.2018</starts>
+    <ends>02.09.2018</ends>
+    <price>0,00 €</price>
+    <saving>mind. 30,00 €</saving>
+    <extras>Wer möchte Gastgeberin sein?</extras>
+    <dimensions>24,3 cm</dimensions>
   </offer>
 </offers>
