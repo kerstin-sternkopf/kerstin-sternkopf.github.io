@@ -3,7 +3,7 @@
   <offer number="1">
     <name>Naschkätzchen-Überraschungstüte</name>
     <starts>30.07.2018</starts>
-    <ends>19.08.2018</ends>
+    <ends>02.09.2018</ends>
     <price>29,90 €</price>
     <saving>ca. 20 €</saving>
     <parts>mind. 2</parts>
@@ -66,5 +66,23 @@
     <saving>mind. 30,00 €</saving>
     <extras>Wer möchte Gastgeberin sein?</extras>
     <dimensions>24,3 cm</dimensions>
+  </offer>
+  <offer number="9">
+    <name>Kombi - Set</name>
+    <starts>20.08.2018</starts>
+    <ends>02.09.2018</ends>
+    <price>32,90 €</price>
+    <saving>23,20 €</saving>
+    <extras>inkl. Salat &amp; Go</extras>
+    <parts>4</parts>
+    <volume>2,0 + 2 x 1,5 + 1,0 l</volume>
+  </offer>
+  <offer number="10">
+    <name>Beste Freunde</name>
+    <starts>20.08.2018</starts>
+    <ends>02.09.2018</ends>
+    <price>20,00 €</price>
+    <parts>2</parts>
+    <dimensions>15,1 x 13,2 x 5,0 cm</dimensions>
   </offer>
 </offers>
