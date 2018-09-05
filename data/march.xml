@@ -1,88 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Naschkätzchen-Überraschungstüte</name>
-    <starts>30.07.2018</starts>
-    <ends>02.09.2018</ends>
-    <price>29,90 €</price>
-    <saving>ca. 20 €</saving>
-    <parts>mind. 2</parts>
-    <dimensions>21 x 17 x 8</dimensions>
+    <name>CombiPlus Set</name>
+    <starts>03.09.2018</starts>
+    <ends>30.09.2018</ends>
+    <price>30,00 €</price>
+    <saving>7,40 €</saving>
+    <parts>2</parts>
+    <volume>3,5 l</volume>
   </offer>
   <offer number="2">
-    <name>Mocktail - Set</name>
-    <starts>30.07.2018</starts>
-    <ends>02.09.2018</ends>
-    <price>39,90 €</price>
-    <saving>8,00 €</saving>
-    <parts>5</parts>
-    <volume>600 ml</volume>
+    <name>Flaschenhalter Set</name>
+    <starts>03.09.2018</starts>
+    <ends>30.09.2018</ends>
+    <price>10,00 €</price>
+    <dimensions>17,2 x 11,7 x 1,7 cm</dimensions>
   </offer>
   <offer number="3">
-    <name>Multi -Grill</name>
-    <starts>30.07.2018</starts>
-    <ends>19.08.2018</ends>
-    <price>199,00 €</price>
-    <saving>50,00 €</saving>
-    <volume>1,5 l</volume>
+    <name>Wärme - Set</name>
+    <starts>03.09.2018</starts>
+    <ends>30.09.2018</ends>
+    <price>30,00 €</price>
+    <saving>10,00 €</saving>
+    <parts>2</parts>
+    <volume>je 360 ml</volume>
   </offer>
   <offer number="4">
-    <name>Großes Naschkätzchen</name>
-    <starts>30.07.2018</starts>
-    <ends>02.09.2018</ends>
-    <price>19,90 €</price>
-    <dimensions>21 x 30 x 10 cm</dimensions>
+    <name>Frost - Quartett (Tauschaktion)</name>
+    <starts>03.09.2018</starts>
+    <ends>30.09.2018</ends>
+    <price>16,00 €</price>
+    <parts>4</parts>
+    <volume>4 x 1,1 l</volume>
   </offer>
   <offer number="5">
-    <name>Venezia</name>
-    <starts>30.07.2018</starts>
-    <ends>02.09.2018</ends>
-    <price>29,90 €</price>
-    <dimensions>20 cm</dimensions>
+    <name>Omlett - Meister - Set</name>
+    <starts>03.09.2018</starts>
+    <ends>30.09.2018</ends>
+    <price>16,50 €</price>
+    <saving>16,50 €</saving>
+    <extras>inkl. Rezeptideen</extras>
+    <parts>2</parts>
+    <volume>2 x 430 ml</volume>
   </offer>
   <offer number="6">
-    <name>Kleiner Hit</name>
-    <starts>30.07.2018</starts>
-    <ends>02.09.2018</ends>
-    <price>16,90 €</price>
-    <saving>7,00 €</saving>
-    <parts>4</parts>
-    <volume>je 300 ml</volume>
+    <name>Dampfmacher</name>
+    <starts>03.09.2018</starts>
+    <ends>30.09.2018</ends>
+    <price>69,90 €</price>
+    <saving>31,10 €</saving>
+    <extras>inkl. Rezeptheft, im Geschenkkarton</extras>
+    <dimensions>Ø 26,3 cm, Höhe 13,7 cm</dimensions>
   </offer>
   <offer number="7">
-    <name>Multi</name>
-    <starts>30.07.2018</starts>
-    <ends>02.09.2018</ends>
-    <price>45,00 €</price>
-    <saving>6,50 €</saving>
-    <extras>inkl. Rezeptideen</extras>
-    <volume>730 ml</volume>
-  </offer>
-  <offer number="8">
-    <name>Dankeschön Party-Geschenk für Gastgeberin</name>
-    <starts>30.07.2018</starts>
-    <ends>02.09.2018</ends>
-    <price>0,00 €</price>
-    <saving>mind. 30,00 €</saving>
-    <extras>Wer möchte Gastgeberin sein?</extras>
-    <dimensions>24,3 cm</dimensions>
-  </offer>
-  <offer number="9">
-    <name>Kombi - Set</name>
-    <starts>20.08.2018</starts>
-    <ends>02.09.2018</ends>
-    <price>32,90 €</price>
-    <saving>23,20 €</saving>
-    <extras>inkl. Salat &amp; Go</extras>
-    <parts>4</parts>
-    <volume>2,0 + 2 x 1,5 + 1,0 l</volume>
-  </offer>
-  <offer number="10">
-    <name>Beste Freunde</name>
-    <starts>20.08.2018</starts>
-    <ends>02.09.2018</ends>
-    <price>20,00 €</price>
-    <parts>2</parts>
-    <dimensions>15,1 x 13,2 x 5,0 cm</dimensions>
+    <name>Grillzauber</name>
+    <starts>03.09.2018</starts>
+    <ends>09.09.2018</ends>
+    <price>99,00 €</price>
+    <extras>inkl. Rezeptheft</extras>
+    <volume>1,5 l</volume>
   </offer>
 </offers>
