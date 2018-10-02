@@ -1,63 +1,95 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>CombiPlus Set</name>
-    <starts>03.09.2018</starts>
-    <ends>30.09.2018</ends>
-    <price>30,00 €</price>
-    <saving>7,40 €</saving>
-    <parts>2</parts>
-    <volume>3,5 l</volume>
+    <name>Überraschungsbeutel</name>
+    <starts>01.10.2018</starts>
+    <ends>14.10.2018</ends>
+    <price>29,90 €</price>
+    <saving>20,10 €</saving>
+    <parts>mind. 2</parts>
   </offer>
   <offer number="2">
-    <name>Flaschenhalter Set</name>
-    <starts>03.09.2018</starts>
-    <ends>30.09.2018</ends>
-    <price>10,00 €</price>
-    <dimensions>17,2 x 11,7 x 1,7 cm</dimensions>
+    <name>Profi-Wolf</name>
+    <starts>01.10.2018</starts>
+    <ends>14.10.2018</ends>
+    <price>79,90 €</price>
+    <saving>45,00 €</saving>
+    <extras>inkl. Rezeptheft</extras>
+    <dimensions>24,3 x 13,3 x 26,6 cm</dimensions>
   </offer>
   <offer number="3">
-    <name>Wärme - Set</name>
-    <starts>03.09.2018</starts>
-    <ends>30.09.2018</ends>
-    <price>30,00 €</price>
-    <saving>10,00 €</saving>
-    <parts>2</parts>
-    <volume>je 360 ml</volume>
+    <name>Rundes Eigenossen-Set</name>
+    <starts>01.10.2018</starts>
+    <ends>04.11.2018</ends>
+    <price>19,90 €</price>
+    <parts>5</parts>
+    <volume>1 x 650 ml, 2 x 440 ml, 2 x 200 ml</volume>
   </offer>
   <offer number="4">
-    <name>Frost - Quartett (Tauschaktion)</name>
-    <starts>03.09.2018</starts>
-    <ends>30.09.2018</ends>
-    <price>16,00 €</price>
-    <parts>4</parts>
-    <volume>4 x 1,1 l</volume>
+    <name>Zauberwald</name>
+    <starts>01.10.2018</starts>
+    <ends>04.11.2018</ends>
+    <price>29,90 €</price>
+    <parts>3</parts>
+    <volume>2,1 l, 1,4 l, 950 ml</volume>
   </offer>
   <offer number="5">
-    <name>Omlett - Meister - Set</name>
-    <starts>03.09.2018</starts>
-    <ends>30.09.2018</ends>
-    <price>16,50 €</price>
-    <saving>16,50 €</saving>
-    <extras>inkl. Rezeptideen</extras>
-    <parts>2</parts>
-    <volume>2 x 430 ml</volume>
+    <name>Herzensbrecher</name>
+    <starts>01.10.2018</starts>
+    <ends>04.11.2018</ends>
+    <price>21,90 €</price>
+    <dimensions>21,8 cm</dimensions>
   </offer>
   <offer number="6">
-    <name>Dampfmacher</name>
-    <starts>03.09.2018</starts>
-    <ends>30.09.2018</ends>
-    <price>69,90 €</price>
-    <saving>31,10 €</saving>
-    <extras>inkl. Rezeptheft, im Geschenkkarton</extras>
-    <dimensions>Ø 26,3 cm, Höhe 13,7 cm</dimensions>
+    <name>Speedy</name>
+    <starts>01.10.2018</starts>
+    <ends>04.11.2018</ends>
+    <price>19,90 €</price>
+    <saving>7,00 €</saving>
+    <extras>inkl. Rezeptideen</extras>
+    <dimensions>24,3 cm</dimensions>
   </offer>
   <offer number="7">
-    <name>Grillzauber</name>
-    <starts>03.09.2018</starts>
-    <ends>09.09.2018</ends>
-    <price>99,00 €</price>
+    <name>Silikonform Mini-Gugelhupf</name>
+    <starts>01.10.2018</starts>
+    <ends>04.11.2018</ends>
+    <price>19,90 €</price>
+    <dimensions>30 x 19,5 x 3,1 cm</dimensions>
+  </offer>
+  <offer number="8">
+    <name>Ultrastarke Kombi</name>
+    <starts>01.10.2018</starts>
+    <ends>04.11.2018</ends>
+    <price>99,90 €</price>
+    <saving>32,10 €</saving>
     <extras>inkl. Rezeptheft</extras>
-    <volume>1,5 l</volume>
+    <parts>3</parts>
+    <volume>3,5 l + 2,0 l + Gardeckel</volume>
+  </offer>
+  <offer number="9">
+    <name>Allegra-Set rot</name>
+    <starts>01.10.2018</starts>
+    <ends>04.11.2018</ends>
+    <price>49,90 €</price>
+    <saving>17,80 €</saving>
+    <extras>auch einzeln erhältlich</extras>
+    <parts>4</parts>
+    <volume>3,5 l +1,5 l + 2 x 275 ml</volume>
+  </offer>
+  <offer number="10">
+    <name>Allegra Perle rot</name>
+    <starts>01.10.2018</starts>
+    <ends>04.11.2018</ends>
+    <price>10,00 €</price>
+    <extras>nur bei 2 neu vereinbarten Partys und 45 € Bestellwert</extras>
+    <dimensions>41,9 x 14,4 x 3,8 cm</dimensions>
+  </offer>
+  <offer number="11">
+    <name>Wunsch-Set </name>
+    <starts>01.10.2018</starts>
+    <ends>04.11.2018</ends>
+    <price>20,00 €</price>
+    <parts>2</parts>
+    <dimensions>13,8 x 13,2 x 5,0 cm</dimensions>
   </offer>
 </offers>
