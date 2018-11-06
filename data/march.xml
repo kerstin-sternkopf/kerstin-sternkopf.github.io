@@ -1,95 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Überraschungsbeutel</name>
-    <starts>01.10.2018</starts>
-    <ends>14.10.2018</ends>
-    <price>29,90 €</price>
-    <saving>20,10 €</saving>
-    <parts>mind. 2</parts>
-  </offer>
-  <offer number="2">
-    <name>Profi-Wolf</name>
-    <starts>01.10.2018</starts>
-    <ends>14.10.2018</ends>
-    <price>79,90 €</price>
+    <name>Ultra 5,7 l</name>
+    <starts>05.11.2018</starts>
+    <ends>18.11.2018</ends>
+    <price>99,00 €</price>
     <saving>45,00 €</saving>
     <extras>inkl. Rezeptheft</extras>
-    <dimensions>24,3 x 13,3 x 26,6 cm</dimensions>
+    <volume>5,7 l</volume>
+  </offer>
+  <offer number="2">
+    <name>Grill-Variation</name>
+    <starts>05.11.2018</starts>
+    <ends>11.11.2018</ends>
+    <price>199,00 €</price>
+    <saving>50,00 €</saving>
+    <extras>inkl. Rezeptheft</extras>
+    <volume>1,5 l</volume>
   </offer>
   <offer number="3">
-    <name>Rundes Eidgenossen-Set</name>
-    <starts>01.10.2018</starts>
-    <ends>04.11.2018</ends>
-    <price>19,90 €</price>
-    <parts>5</parts>
-    <volume>1 x 650 ml, 2 x 440 ml, 2 x 200 ml</volume>
+    <name>Kompakt-System</name>
+    <starts>05.11.2018</starts>
+    <ends>02.12.2018</ends>
+    <price>49,90 €</price>
+    <saving>7,50 €</saving>
+    <extras>Auch einzeln erhältlich!!</extras>
+    <parts>3</parts>
+    <volume>5,0 + 2,6 + 1,1 l</volume>
   </offer>
   <offer number="4">
-    <name>Zauberwald</name>
-    <starts>01.10.2018</starts>
-    <ends>04.11.2018</ends>
-    <price>29,90 €</price>
+    <name>Peng-Trio</name>
+    <starts>05.11.2018</starts>
+    <ends>02.12.2018</ends>
+    <price>39,30 €</price>
+    <saving>10,00 €</saving>
+    <extras>Auch einzeln erhältlich!!</extras>
     <parts>3</parts>
-    <volume>2,1 l, 1,4 l, 950 ml</volume>
+    <volume>3 + 2 + 1 l</volume>
   </offer>
   <offer number="5">
-    <name>Herzensbrecher</name>
-    <starts>01.10.2018</starts>
-    <ends>04.11.2018</ends>
-    <price>21,90 €</price>
-    <dimensions>21,8 cm</dimensions>
+    <name>Lama-Runde</name>
+    <starts>05.11.2018</starts>
+    <ends>02.12.2018</ends>
+    <price>19,90 €</price>
+    <extras>Nur solange der Vorrat reicht!!</extras>
+    <volume>2,4 l</volume>
   </offer>
   <offer number="6">
-    <name>Speedy</name>
-    <starts>01.10.2018</starts>
-    <ends>04.11.2018</ends>
-    <price>19,90 €</price>
-    <saving>7,00 €</saving>
-    <extras>inkl. Rezeptideen</extras>
-    <dimensions>24,3 cm</dimensions>
+    <name>Top-Schaber-Duo</name>
+    <starts>05.11.2018</starts>
+    <ends>02.12.2018</ends>
+    <price>15,90 €</price>
+    <saving>13,40 €</saving>
+    <extras>Der kleine Topschaber ist im Set gratis!!!</extras>
+    <parts>2</parts>
   </offer>
   <offer number="7">
-    <name>Silikonform Mini-Gugelhupf</name>
-    <starts>01.10.2018</starts>
-    <ends>04.11.2018</ends>
-    <price>19,90 €</price>
-    <dimensions>30 x 19,5 x 3,1 cm</dimensions>
-  </offer>
-  <offer number="8">
-    <name>Ultrastarke Kombi</name>
-    <starts>01.10.2018</starts>
-    <ends>04.11.2018</ends>
-    <price>99,90 €</price>
-    <saving>32,10 €</saving>
-    <extras>inkl. Rezeptheft</extras>
+    <name>Buntes Trio</name>
+    <starts>05.11.2018</starts>
+    <ends>02.12.2018</ends>
+    <price>16,90 €</price>
     <parts>3</parts>
-    <volume>3,5 l + 2,0 l + Gardeckel</volume>
-  </offer>
-  <offer number="9">
-    <name>Allegra-Set rot</name>
-    <starts>01.10.2018</starts>
-    <ends>04.11.2018</ends>
-    <price>49,90 €</price>
-    <saving>17,80 €</saving>
-    <extras>auch einzeln erhältlich</extras>
-    <parts>4</parts>
-    <volume>3,5 l +1,5 l + 2 x 275 ml</volume>
-  </offer>
-  <offer number="10">
-    <name>Allegra Perle rot</name>
-    <starts>01.10.2018</starts>
-    <ends>04.11.2018</ends>
-    <price>10,00 €</price>
-    <extras>nur bei 2 neu vereinbarten Partys und 45 € Bestellwert</extras>
-    <dimensions>41,9 x 14,4 x 3,8 cm</dimensions>
-  </offer>
-  <offer number="11">
-    <name>Wunsch-Set </name>
-    <starts>01.10.2018</starts>
-    <ends>04.11.2018</ends>
-    <price>20,00 €</price>
-    <parts>2</parts>
-    <dimensions>13,8 x 13,2 x 5,0 cm</dimensions>
+    <volume>3 x 550 ml</volume>
   </offer>
 </offers>
