@@ -63,4 +63,14 @@
     <parts>3</parts>
     <volume>3 x 550 ml</volume>
   </offer>
+  <offer number="8">
+    <name>Großes Cleas Collection Set</name>
+    <starts>12.11.2018</starts>
+    <ends>02.12.2018</ends>
+    <price>79,90 €</price>
+    <saving>42,10 €</saving>
+    <extras>Auch einzeln erhältlich!!</extras>
+    <parts>6</parts>
+    <volume>4,0 l + 2,4 l + 1,35 l + 990 ml +610 ml + 290 ml</volume>
+  </offer>
 </offers>
