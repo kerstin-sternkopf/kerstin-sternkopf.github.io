@@ -73,4 +73,12 @@
     <parts>6</parts>
     <volume>4,0 l + 2,4 l + 1,35 l + 990 ml +610 ml + 290 ml</volume>
   </offer>
+  <offer number="9">
+    <name>Nimm-mich-mit-Set</name>
+    <starts>19.11.2018</starts>
+    <ends>25.11.2018</ends>
+    <price>15,20 €</price>
+    <saving>ca 9,00 €</saving>
+    <parts>2</parts>
+  </offer>
 </offers>
