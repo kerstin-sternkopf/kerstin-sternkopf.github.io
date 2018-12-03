@@ -1,84 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Ultra 5,7 l</name>
-    <starts>05.11.2018</starts>
-    <ends>18.11.2018</ends>
-    <price>99,00 €</price>
-    <saving>45,00 €</saving>
-    <extras>inkl. Rezeptheft</extras>
-    <volume>5,7 l</volume>
+    <name>1. Überraschung</name>
+    <starts>03.12.2018</starts>
+    <ends>16.12.2018</ends>
+    <price>20,00 €</price>
+    <saving>15,00 €</saving>
   </offer>
   <offer number="2">
-    <name>Grill-Variation</name>
-    <starts>05.11.2018</starts>
-    <ends>11.11.2018</ends>
-    <price>199,00 €</price>
-    <saving>50,00 €</saving>
-    <extras>inkl. Rezeptheft</extras>
-    <volume>1,5 l</volume>
+    <name>2. Überraschung</name>
+    <starts>03.12.2018</starts>
+    <ends>16.12.2018</ends>
+    <price>25,00 €</price>
+    <saving>20,00 €</saving>
   </offer>
   <offer number="3">
-    <name>Kompakt-System</name>
-    <starts>05.11.2018</starts>
-    <ends>02.12.2018</ends>
-    <price>49,90 €</price>
-    <saving>7,50 €</saving>
-    <extras>Auch einzeln erhältlich!!</extras>
-    <parts>3</parts>
-    <volume>5,0 + 2,6 + 1,1 l</volume>
+    <name>3. Überraschung</name>
+    <starts>03.12.2018</starts>
+    <ends>16.12.2018</ends>
+    <price>30,00 €</price>
+    <saving>25,00 €</saving>
   </offer>
   <offer number="4">
-    <name>Peng-Trio</name>
-    <starts>05.11.2018</starts>
-    <ends>02.12.2018</ends>
-    <price>39,30 €</price>
-    <saving>10,00 €</saving>
-    <extras>Auch einzeln erhältlich!!</extras>
-    <parts>3</parts>
-    <volume>3 + 2 + 1 l</volume>
-  </offer>
-  <offer number="5">
-    <name>Lama-Runde</name>
-    <starts>05.11.2018</starts>
-    <ends>02.12.2018</ends>
-    <price>19,90 €</price>
-    <extras>Nur solange der Vorrat reicht!!</extras>
-    <volume>2,4 l</volume>
-  </offer>
-  <offer number="6">
-    <name>Top-Schaber-Duo</name>
-    <starts>05.11.2018</starts>
-    <ends>02.12.2018</ends>
-    <price>15,90 €</price>
-    <saving>13,40 €</saving>
-    <extras>Der kleine Topschaber ist im Set gratis!!!</extras>
-    <parts>2</parts>
-  </offer>
-  <offer number="7">
-    <name>Buntes Trio</name>
-    <starts>05.11.2018</starts>
-    <ends>02.12.2018</ends>
-    <price>16,90 €</price>
-    <parts>3</parts>
-    <volume>3 x 550 ml</volume>
-  </offer>
-  <offer number="8">
-    <name>Großes Clear Collection Set</name>
-    <starts>12.11.2018</starts>
-    <ends>02.12.2018</ends>
-    <price>79,90 €</price>
-    <saving>42,10 €</saving>
-    <extras>Auch einzeln erhältlich!!</extras>
-    <parts>6</parts>
-    <volume>4,0 l + 2,4 l + 1,35 l + 990 ml +610 ml + 290 ml</volume>
-  </offer>
-  <offer number="9">
-    <name>Nimm-mich-mit-Set</name>
-    <starts>19.11.2018</starts>
-    <ends>25.11.2018</ends>
-    <price>15,20 €</price>
-    <saving>ca 9,00 €</saving>
-    <parts>2</parts>
+    <name>4. Überraschung</name>
+    <starts>03.12.2018</starts>
+    <ends>16.12.2018</ends>
+    <price>40,00 €</price>
+    <saving>30,00 €</saving>
   </offer>
 </offers>
