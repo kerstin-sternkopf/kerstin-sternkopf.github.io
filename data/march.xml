@@ -28,4 +28,28 @@
     <price>40,00 €</price>
     <saving>30,00 €</saving>
   </offer>
+  <offer number="5">
+    <name>Snack-Mac</name>
+    <starts>03.12.2018</starts>
+    <ends>30.12.2018</ends>
+    <price>19,90 €</price>
+    <saving>20 %</saving>
+    <extras>inkl. Rezeptideen</extras>
+    <dimensions>31 x 25,4 x 2,6 cm</dimensions>
+  </offer>
+  <offer number="6">
+    <name>Turbo</name>
+    <starts>03.12.2018</starts>
+    <ends>30.12.2018</ends>
+    <price>35,90 €</price>
+    <saving>20 %</saving>
+    <volume>300 ml</volume>
+  </offer>
+  <offer number="7">
+    <name>Fondue-Set</name>
+    <starts>03.12.2018</starts>
+    <ends>30.12.2018</ends>
+    <price>24,90 €</price>
+    <saving>ca. 12 €</saving>
+  </offer>
 </offers>
