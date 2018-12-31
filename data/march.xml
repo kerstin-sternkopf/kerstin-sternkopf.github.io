@@ -1,55 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>1. Überraschung</name>
-    <starts>03.12.2018</starts>
-    <ends>16.12.2018</ends>
-    <price>20,00 €</price>
-    <saving>15,00 €</saving>
+    <name>Party-Chef</name>
+    <starts>31.12.2018</starts>
+    <ends>06.01.2019</ends>
+    <price>40,00 €</price>
+    <saving>46 %</saving>
+    <volume>1,3 l</volume>
   </offer>
   <offer number="2">
-    <name>2. Überraschung</name>
-    <starts>03.12.2018</starts>
-    <ends>16.12.2018</ends>
-    <price>25,00 €</price>
-    <saving>20,00 €</saving>
+    <name>Party-Bowl</name>
+    <starts>31.12.2018</starts>
+    <ends>06.01.2019</ends>
+    <price>22,00 €</price>
+    <saving>ca. 10 €</saving>
+    <volume>10,0 l</volume>
   </offer>
   <offer number="3">
-    <name>3. Überraschung</name>
-    <starts>03.12.2018</starts>
-    <ends>16.12.2018</ends>
-    <price>30,00 €</price>
-    <saving>25,00 €</saving>
+    <name>Käse-Mix</name>
+    <starts>31.12.2018</starts>
+    <ends>03.02.2019</ends>
+    <price>29,90 €</price>
+    <saving>über 41 %</saving>
   </offer>
   <offer number="4">
-    <name>4. Überraschung</name>
-    <starts>03.12.2018</starts>
-    <ends>16.12.2018</ends>
-    <price>40,00 €</price>
-    <saving>30,00 €</saving>
+    <name>Großer Micro-CombiGourmet</name>
+    <starts>31.12.2018</starts>
+    <ends>03.02.2019</ends>
+    <price>99,00 €</price>
+    <saving>20,00 €</saving>
+    <volume>3,0 l</volume>
   </offer>
   <offer number="5">
-    <name>Snack-Mac</name>
-    <starts>03.12.2018</starts>
-    <ends>30.12.2018</ends>
-    <price>19,90 €</price>
-    <saving>20 %</saving>
-    <extras>inkl. Rezeptideen</extras>
-    <dimensions>31 x 25,4 x 2,6 cm</dimensions>
+    <name>NEU! Kochen mit Leichtigkeit</name>
+    <starts>31.12.2018</starts>
+    <ends>03.02.2019</ends>
+    <price>14,90 €</price>
   </offer>
   <offer number="6">
-    <name>Turbo</name>
-    <starts>03.12.2018</starts>
-    <ends>30.12.2018</ends>
-    <price>35,90 €</price>
-    <saving>20 %</saving>
-    <volume>300 ml</volume>
+    <name>Cup-Cake-Set</name>
+    <starts>31.12.2018</starts>
+    <ends>03.02.2019</ends>
+    <price>24,90 €</price>
+    <saving>kleiner Schöpflöffel gratis</saving>
   </offer>
   <offer number="7">
-    <name>Fondue-Set</name>
-    <starts>03.12.2018</starts>
-    <ends>30.12.2018</ends>
-    <price>24,90 €</price>
-    <saving>ca. 12 €</saving>
+    <name>Warmie-Tup-Set</name>
+    <starts>31.12.2018</starts>
+    <ends>03.02.2019</ends>
+    <price>69,90 €</price>
+    <saving>über 31 %</saving>
+    <extras>auch einzeln erhältlich</extras>
+    <parts>4</parts>
+    <volume>3,25 + 2,25 + 1,3 l + Löffel</volume>
+  </offer>
+  <offer number="8">
+    <name>Party Boom-Set</name>
+    <starts>31.12.2018</starts>
+    <ends>03.02.2019</ends>
+    <price>25,00 € (50,00 € ohne Tauschaktion)</price>
+    <saving>50 % (mit Tauschaktion)</saving>
+    <parts>6</parts>
+    <volume>3 x 1,5 l + 3 x 300 ml</volume>
   </offer>
 </offers>
