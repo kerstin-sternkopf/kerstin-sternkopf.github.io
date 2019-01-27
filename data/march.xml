@@ -48,18 +48,20 @@
     <volume>3 x 1,5 l + 3 x 300 ml</volume>
   </offer>
   <offer number="7">
-    <name>Valentine-Becher</name>
-    <starts>07.01.2019</starts>
-    <ends>27.01.2019</ends>
+    <name>Kastenkuchenbehäler</name>
+    <starts>28.01.2019</starts>
+    <ends>03.02.2019</ends>
     <price>19,90 €</price>
-    <volume>360 ml</volume>
+    <saving>über 48 %</saving>
+    <volume>44,5 x 19 x 16 cm</volume>
   </offer>
   <offer number="8">
-    <name>Sweeties</name>
-    <starts>07.01.2019</starts>
-    <ends>27.01.2019</ends>
-    <price>10,50 €</price>
-    <parts>2</parts>
-    <dimensions>14 x 11,2 x 6,5 cm</dimensions>
+    <name>Bellevue-Set</name>
+    <starts>28.01.2019</starts>
+    <ends>03.02.2019</ends>
+    <price>19,90 €</price>
+    <saving>50 %</saving>
+    <extras>auch einzeln erhältlich</extras>
+    <volume>2 x 1,2 l + 2 x 450 ml</volume>
   </offer>
 </offers>
