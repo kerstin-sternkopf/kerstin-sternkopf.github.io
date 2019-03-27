@@ -1,15 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>World-Water-Duo</name>
-    <starts>18.03.2019</starts>
-    <ends>24.03.2019</ends>
-    <price>10,00 €</price>
-    <saving>über 62 %!!!!!</saving>
-    <parts>2</parts>
-    <volume>2 x 750 ml</volume>
-  </offer>
-  <offer number="2">
     <name>Lager-Set</name>
     <starts>04.03.2019</starts>
     <ends>31.03.2019</ends>
@@ -17,7 +8,7 @@
     <saving>über 31 %</saving>
     <parts>2</parts>
   </offer>
-  <offer number="3">
+  <offer number="2">
     <name>Dampfmacher</name>
     <starts>04.03.2019</starts>
     <ends>31.03.2019</ends>
@@ -26,7 +17,7 @@
     <extras>inkl. Rezeptheft, im edlen Geschenkkarton</extras>
     <volume>2,5 l</volume>
   </offer>
-  <offer number="4">
+  <offer number="3">
     <name>Klima-Set</name>
     <starts>04.03.2019</starts>
     <ends>31.03.2019</ends>
@@ -35,7 +26,7 @@
     <parts>3</parts>
     <volume>1 x 4,4 l + 2 x 1,8 l hoch</volume>
   </offer>
-  <offer number="5">
+  <offer number="4">
     <name>Frische-Turm</name>
     <starts>04.03.2019</starts>
     <ends>31.03.2019</ends>
@@ -43,7 +34,7 @@
     <saving>über 31 %</saving>
     <parts>4</parts>
   </offer>
-  <offer number="6">
+  <offer number="5">
     <name>Überraschungstüte :-)</name>
     <starts>04.03.2019</starts>
     <ends>31.03.2019</ends>
