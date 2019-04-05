@@ -1,44 +1,62 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Lager-Set</name>
-    <starts>04.03.2019</starts>
-    <ends>31.03.2019</ends>
-    <price>39,90 €</price>
-    <saving>über 31 %</saving>
-    <parts>2</parts>
+    <name>Wassermix</name>
+    <starts>01.04.2019</starts>
+    <ends>05.05.2019</ends>
+    <price>15,00 €</price>
+    <saving>über 34 %</saving>
+    <volume>700 ml</volume>
   </offer>
   <offer number="2">
-    <name>Dampfmacher</name>
-    <starts>04.03.2019</starts>
-    <ends>31.03.2019</ends>
-    <price>79,90 €</price>
-    <saving>über 20 %</saving>
-    <extras>inkl. Rezeptheft, im edlen Geschenkkarton</extras>
-    <volume>2,5 l</volume>
+    <name>Schleuder-Karussell</name>
+    <starts>01.04.2019</starts>
+    <ends>05.05.2019</ends>
+    <price>29,90 €</price>
+    <saving>über 33 %</saving>
+    <extras>inkl. Frischhaltedeckel</extras>
+    <volume>3,9 l</volume>
   </offer>
   <offer number="3">
-    <name>Klima-Set</name>
-    <starts>04.03.2019</starts>
-    <ends>31.03.2019</ends>
-    <price>39,90 €</price>
-    <saving>über 38 %</saving>
-    <parts>3</parts>
-    <volume>1 x 4,4 l + 2 x 1,8 l hoch</volume>
+    <name>S946   To-Go-Set</name>
+    <starts>01.04.2019</starts>
+    <ends>05.05.2019</ends>
+    <price>12,90 €</price>
+    <extras>Set = Deckel to-Go / Dressing-Behälter / Salatbesteck</extras>
+    <parts>6</parts>
   </offer>
   <offer number="4">
-    <name>Frische-Turm</name>
-    <starts>04.03.2019</starts>
-    <ends>31.03.2019</ends>
-    <price>29,90 €</price>
-    <saving>über 31 %</saving>
-    <parts>4</parts>
+    <name>Ultra-Kastenform</name>
+    <starts>01.04.2019</starts>
+    <ends>05.05.2019</ends>
+    <price>50,00 €</price>
+    <saving>über 26 %</saving>
+    <extras>inkl. Rezeptheft</extras>
+    <volume>1,8 l</volume>
   </offer>
   <offer number="5">
-    <name>Überraschungstüte :-)</name>
-    <starts>04.03.2019</starts>
-    <ends>31.03.2019</ends>
-    <price>19,90 €</price>
-    <saving>über 43 %</saving>
+    <name>Kegelei</name>
+    <starts>01.04.2019</starts>
+    <ends>05.05.2019</ends>
+    <price>12,50 €</price>
+    <saving>über 28 %</saving>
+  </offer>
+  <offer number="6">
+    <name>Maximlian-Set</name>
+    <starts>01.04.2019</starts>
+    <ends>05.05.2019</ends>
+    <price>29,90 €</price>
+    <saving>im Set über 28 %</saving>
+    <extras>auach einzeln erhältlich</extras>
+    <parts>3</parts>
+    <volume>2,75 l + 1,4 l + 600 ml </volume>
+  </offer>
+  <offer number="7">
+    <name>7,5 l Maximilian</name>
+    <starts>01.04.2019</starts>
+    <ends>05.05.2019</ends>
+    <price>12,00 €</price>
+    <extras>(persönlicher Bestellwert mind. 45 € pro Vorführung)</extras>
+    <volume>7,5 l</volume>
   </offer>
 </offers>
