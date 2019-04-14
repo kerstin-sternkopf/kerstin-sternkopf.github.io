@@ -60,16 +60,6 @@
     <volume>7,5 l</volume>
   </offer>
   <offer number="8">
-    <name>Servier + Dip</name>
-    <starts>08.04.2019</starts>
-    <ends>14.04.2019</ends>
-    <price>13,00 €</price>
-    <saving>50 %</saving>
-    <extras>inkl. 4 Gabeln     Nur 1 Woche!!!!!</extras>
-    <parts>5</parts>
-    <dimensions>19,5 x 17,0 x 10,5 cm</dimensions>
-  </offer>
-  <offer number="9">
     <name>Gefrier-Set</name>
     <starts>15.04.2019</starts>
     <ends>28.04.2019</ends>
@@ -77,7 +67,7 @@
     <extras>4 zum Preis von 3</extras>
     <volume>4 x 1,1 l</volume>
   </offer>
-  <offer number="10">
+  <offer number="9">
     <name>Silikon-Herz</name>
     <starts>15.04.2019</starts>
     <ends>28.04.2019</ends>
