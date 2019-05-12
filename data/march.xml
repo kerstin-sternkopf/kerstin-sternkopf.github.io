@@ -1,77 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Wassermix</name>
-    <starts>01.04.2019</starts>
-    <ends>05.05.2019</ends>
-    <price>15,00 €</price>
-    <saving>über 34 %</saving>
-    <volume>700 ml</volume>
+    <name>KlimaOase 3,2 l hoch</name>
+    <starts>06.05.2019</starts>
+    <ends>02.06.2019</ends>
+    <price>22,90 €</price>
+    <extras>NEUES PRODUKT!!!</extras>
+    <volume>3,2 l</volume>
   </offer>
   <offer number="2">
-    <name>Schleuder-Karussell</name>
-    <starts>01.04.2019</starts>
-    <ends>05.05.2019</ends>
-    <price>29,90 €</price>
-    <saving>über 33 %</saving>
-    <extras>inkl. Frischhaltedeckel</extras>
-    <volume>3,9 l</volume>
+    <name>Flaches Klima Set</name>
+    <starts>06.05.2019</starts>
+    <ends>02.06.2019</ends>
+    <price>39,90 €</price>
+    <saving>über 16%</saving>
+    <parts>3</parts>
+    <volume>2 x 800 ml + 1 x 1,8 l</volume>
   </offer>
   <offer number="3">
-    <name>S946   To-Go-Set</name>
-    <starts>01.04.2019</starts>
-    <ends>05.05.2019</ends>
-    <price>12,90 €</price>
-    <extras>Set = Deckel to-Go / Dressing-Behälter / Salatbesteck</extras>
-    <parts>3</parts>
+    <name>Picknick-Set</name>
+    <starts>06.05.2019</starts>
+    <ends>02.06.2019</ends>
+    <price>18,90 €</price>
+    <parts>2</parts>
+    <volume>750 ml</volume>
   </offer>
   <offer number="4">
-    <name>Ultra-Kastenform</name>
-    <starts>01.04.2019</starts>
-    <ends>05.05.2019</ends>
-    <price>50,00 €</price>
-    <saving>über 26 %</saving>
-    <extras>inkl. Rezeptheft</extras>
-    <volume>1,8 l</volume>
+    <name>Junior</name>
+    <starts>06.05.2019</starts>
+    <ends>02.06.2019</ends>
+    <price>29,90 €</price>
+    <saving>über 25 %</saving>
+    <extras>inkl. Rezeptideen</extras>
   </offer>
   <offer number="5">
-    <name>Kegelei</name>
-    <starts>01.04.2019</starts>
-    <ends>05.05.2019</ends>
-    <price>12,50 €</price>
-    <saving>über 28 %</saving>
+    <name>Stapel Klick</name>
+    <starts>06.05.2019</starts>
+    <ends>02.06.2019</ends>
+    <price>29,90 €</price>
+    <parts>3</parts>
+    <volume>3 x 900 ml</volume>
   </offer>
   <offer number="6">
-    <name>Maximilian-Set</name>
-    <starts>01.04.2019</starts>
-    <ends>05.05.2019</ends>
-    <price>29,90 €</price>
-    <saving>im Set über 28 %</saving>
-    <extras>auch einzeln erhältlich</extras>
-    <parts>3</parts>
-    <volume>2,75 l + 1,4 l + 600 ml </volume>
-  </offer>
-  <offer number="7">
-    <name>7,5 l Maximilian</name>
-    <starts>01.04.2019</starts>
-    <ends>05.05.2019</ends>
-    <price>12,00 €</price>
-    <extras>persönlicher Bestellwert mind. 45 € pro Vorführung</extras>
-    <volume>7,5 l</volume>
-  </offer>
-  <offer number="8">
-    <name>Gefrier-Set</name>
-    <starts>15.04.2019</starts>
-    <ends>28.04.2019</ends>
-    <price>25,50 €</price>
-    <extras>4 zum Preis von 3</extras>
-    <volume>4 x 1,1 l</volume>
-  </offer>
-  <offer number="9">
-    <name>Silikon-Herz</name>
-    <starts>15.04.2019</starts>
-    <ends>28.04.2019</ends>
-    <price>19,90 €</price>
-    <volume>850 ml</volume>
+    <name>Grillzange</name>
+    <starts>06.05.2019</starts>
+    <ends>02.06.2019</ends>
+    <price>34,90 €</price>
+    <dimensions>39 cm</dimensions>
   </offer>
 </offers>
