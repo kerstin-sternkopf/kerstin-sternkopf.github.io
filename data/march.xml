@@ -1,51 +1,73 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>KlimaOase 3,2 l hoch</name>
-    <starts>06.05.2019</starts>
-    <ends>02.06.2019</ends>
-    <price>22,90 €</price>
-    <extras>NEUES PRODUKT!!!</extras>
-    <volume>3,2 l</volume>
+    <name>Zackenkönig</name>
+    <starts>03.06.2019</starts>
+    <ends>30.06.2019</ends>
+    <price>14,90 €</price>
+    <dimensions>20,7 cm</dimensions>
   </offer>
   <offer number="2">
-    <name>Flaches Klima Set</name>
-    <starts>06.05.2019</starts>
-    <ends>02.06.2019</ends>
-    <price>39,90 €</price>
-    <saving>über 16%</saving>
-    <parts>3</parts>
-    <volume>2 x 800 ml + 1 x 1,8 l</volume>
+    <name>Ab-in-den-Urlaub-Überraschungstüte</name>
+    <starts>03.06.2019</starts>
+    <ends>30.06.2019</ends>
+    <price>29,90 €</price>
+    <saving>ca. 20 €</saving>
+    <parts>mind. 2</parts>
   </offer>
   <offer number="3">
-    <name>Picknick-Set</name>
-    <starts>06.05.2019</starts>
-    <ends>02.06.2019</ends>
-    <price>18,90 €</price>
-    <parts>2</parts>
-    <volume>750 ml</volume>
+    <name>Junge Welle Set</name>
+    <starts>03.06.2019</starts>
+    <ends>30.06.2019</ends>
+    <price>29,90 €</price>
+    <saving>über 22 %</saving>
+    <parts>5</parts>
+    <volume>1 x 2,1 l + 2 x 330 ml</volume>
   </offer>
   <offer number="4">
-    <name>Junior</name>
-    <starts>06.05.2019</starts>
-    <ends>02.06.2019</ends>
-    <price>29,90 €</price>
-    <saving>über 25 %</saving>
-    <extras>inkl. Rezeptideen</extras>
+    <name>Junge Welle Kanne 2,1 l</name>
+    <starts>03.06.2019</starts>
+    <ends>30.06.2019</ends>
+    <price>16,90 €</price>
+    <volume>2,1 l</volume>
   </offer>
   <offer number="5">
-    <name>Stapel Klick</name>
-    <starts>06.05.2019</starts>
-    <ends>02.06.2019</ends>
-    <price>29,90 €</price>
-    <parts>3</parts>
-    <volume>3 x 900 ml</volume>
+    <name>Junge Welle Becher (2)</name>
+    <starts>03.06.2019</starts>
+    <ends>30.06.2019</ends>
+    <price>10,90 €</price>
+    <parts>2</parts>
+    <volume>2 x 330 ml</volume>
   </offer>
   <offer number="6">
-    <name>Grillzange</name>
-    <starts>06.05.2019</starts>
-    <ends>02.06.2019</ends>
-    <price>34,90 €</price>
-    <dimensions>39 cm</dimensions>
+    <name>Große Junge Welle</name>
+    <starts>03.06.2019</starts>
+    <ends>30.06.2019</ends>
+    <price>14,50 €</price>
+    <saving>über 21%</saving>
+    <volume>4,3 l</volume>
+  </offer>
+  <offer number="7">
+    <name>Ultra 3,3 l</name>
+    <starts>03.06.2019</starts>
+    <ends>30.06.2019</ends>
+    <price>99,90 €</price>
+    <saving>über 19 %</saving>
+    <volume>3,3 l</volume>
+  </offer>
+  <offer number="8">
+    <name>FaserPro Sommerset</name>
+    <starts>03.06.2019</starts>
+    <ends>09.06.2019</ends>
+    <price>17,00 €</price>
+    <saving>Durchblick(2) gratis im Set</saving>
+    <parts>4</parts>
+  </offer>
+  <offer number="9">
+    <name>Microteller</name>
+    <starts>17.06.2019</starts>
+    <ends>23.06.2019</ends>
+    <price>14,90 €</price>
+    <saving>über 33 %</saving>
   </offer>
 </offers>
