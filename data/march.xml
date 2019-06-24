@@ -66,8 +66,18 @@
   <offer number="9">
     <name>Microteller</name>
     <starts>17.06.2019</starts>
-    <ends>23.06.2019</ends>
+    <ends>30.06.2019</ends>
     <price>14,90 €</price>
     <saving>über 33 %</saving>
+    <extras>Angebort eine Woche verlängert!</extras>
+  </offer>
+  <offer number="10">
+    <name>Pausen-Mix</name>
+    <starts>01.07.2019</starts>
+    <ends>28.07.2019</ends>
+    <price>20,00 €</price>
+    <extras>Tauschaktion!!!</extras>
+    <parts>2</parts>
+    <volume>2 x 1,1 l</volume>
   </offer>
 </offers>
