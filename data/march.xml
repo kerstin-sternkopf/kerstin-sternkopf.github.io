@@ -56,14 +56,6 @@
     <volume>3,3 l</volume>
   </offer>
   <offer number="8">
-    <name>FaserPro Sommerset</name>
-    <starts>03.06.2019</starts>
-    <ends>09.06.2019</ends>
-    <price>17,00 €</price>
-    <saving>Durchblick(2) gratis im Set</saving>
-    <parts>4</parts>
-  </offer>
-  <offer number="9">
     <name>Microteller</name>
     <starts>17.06.2019</starts>
     <ends>30.06.2019</ends>
@@ -71,7 +63,7 @@
     <saving>über 33 %</saving>
     <extras>Angebort eine Woche verlängert!</extras>
   </offer>
-  <offer number="10">
+  <offer number="9">
     <name>Pausen-Mix</name>
     <starts>01.07.2019</starts>
     <ends>28.07.2019</ends>
