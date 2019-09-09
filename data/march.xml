@@ -1,56 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Pausen-Mix</name>
-    <starts>01.07.2019</starts>
-    <ends>28.07.2019</ends>
-    <price>20,00 €</price>
-    <extras>Tauschaktion!!!</extras>
-    <parts>2</parts>
-    <volume>2 x 1,1 l</volume>
+    <name>Sieb-Set</name>
+    <starts>02.09.2019</starts>
+    <ends>29.09.2019</ends>
+    <price>19,90 €</price>
+    <saving>über 16 %</saving>
+    <volume>2 l</volume>
   </offer>
   <offer number="2">
-    <name>Eistüten-Set (6)</name>
-    <starts>01.07.2019</starts>
-    <ends>28.07.2019</ends>
-    <price>16,90 €</price>
-    <saving>über 24 %</saving>
-    <parts>6</parts>
-    <volume>6 x 65 ml</volume>
+    <name>Multi-Fix</name>
+    <starts>02.09.2019</starts>
+    <ends>29.09.2019</ends>
+    <price>45,00 €</price>
+    <saving>über 12 %</saving>
+    <extras>inkl. Rezeptideen</extras>
+    <volume>730 ml</volume>
   </offer>
   <offer number="3">
-    <name>275 ml Tafelperlen (4)</name>
-    <starts>01.07.2019</starts>
-    <ends>28.07.2019</ends>
-    <price>24,90 €</price>
-    <parts>4</parts>
-    <volume>4 x 275 ml</volume>
+    <name>Micro Multi</name>
+    <starts>02.09.2019</starts>
+    <ends>29.09.2019</ends>
+    <price>89,00 €</price>
+    <saving>über 25 %</saving>
+    <volume>3,0 l</volume>
   </offer>
   <offer number="4">
-    <name>Tafelperlen-Set (3) </name>
-    <starts>01.07.2019</starts>
-    <ends>28.07.2019</ends>
-    <price>59,90 €</price>
-    <saving>über 23 % im Set reduziert</saving>
-    <extras>Auch einzeln erhältlich</extras>
-    <parts>3</parts>
-    <volume>3,5 l + 2,1 l + 1,1 l</volume>
+    <name>Aufwärm-Set</name>
+    <starts>02.09.2019</starts>
+    <ends>29.09.2019</ends>
+    <price>39,50 €</price>
+    <saving>über 20 %</saving>
+    <parts>4 </parts>
+    <volume>800 + 600 + 400 ml + Tasse 460 ml</volume>
   </offer>
   <offer number="5">
-    <name>Allegra Butler-Set</name>
-    <starts>01.07.2019</starts>
-    <ends>28.07.2019</ends>
-    <price>29,90 €</price>
-    <parts>2</parts>
-    <volume>2 x 340 ml</volume>
-  </offer>
-  <offer number="6">
-    <name>Speedy</name>
-    <starts>01.07.2019</starts>
-    <ends>28.07.2019</ends>
-    <price>19,90 €</price>
-    <saving>über 26 %</saving>
-    <extras>inkl. Rezeptideen</extras>
-    <dimensions>24,3 x 9 x 7,4 cm</dimensions>
+    <name>Ordnungshüter</name>
+    <starts>02.09.2019</starts>
+    <ends>29.09.2019</ends>
+    <price>39,90 €</price>
+    <saving>über 32 %</saving>
+    <parts>4</parts>
+    <volume>500 ml + 1,1 + 1,7 + 2,3 l</volume>
   </offer>
 </offers>
