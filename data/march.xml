@@ -1,46 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Sieb-Set</name>
-    <starts>02.09.2019</starts>
-    <ends>29.09.2019</ends>
-    <price>19,90 €</price>
-    <saving>über 16 %</saving>
-    <volume>2 l</volume>
+    <name>Neu im Sortiment!  Ultra Pro Cornetti</name>
+    <starts>30.09.2019</starts>
+    <ends>03.11.2019</ends>
+    <price>28,90 €</price>
+    <parts>4</parts>
   </offer>
   <offer number="2">
-    <name>Multi-Fix</name>
-    <starts>02.09.2019</starts>
-    <ends>29.09.2019</ends>
-    <price>45,00 €</price>
-    <saving>über 12 %</saving>
-    <extras>inkl. Rezeptideen</extras>
-    <volume>730 ml</volume>
+    <name>Maximilian-Set</name>
+    <starts>30.09.2019</starts>
+    <ends>03.11.2019</ends>
+    <price>40,00 €</price>
+    <saving>über 23 % im Set</saving>
+    <extras>auch einzeln erhältlich</extras>
+    <parts>3</parts>
+    <volume>4,5 +2,75 +1,4 l</volume>
   </offer>
   <offer number="3">
-    <name>Micro Multi</name>
-    <starts>02.09.2019</starts>
-    <ends>29.09.2019</ends>
-    <price>89,00 €</price>
-    <saving>über 25 %</saving>
-    <volume>3,0 l</volume>
+    <name>Ultra 5,7 l</name>
+    <starts>30.09.2019</starts>
+    <ends>03.11.2019</ends>
+    <price>99,90 €</price>
+    <saving>über 30 %</saving>
+    <extras>inkl. Rezeptideen</extras>
+    <volume>5,7 l</volume>
   </offer>
   <offer number="4">
-    <name>Aufwärm-Set</name>
-    <starts>02.09.2019</starts>
-    <ends>29.09.2019</ends>
-    <price>39,50 €</price>
-    <saving>über 20 %</saving>
-    <parts>4 </parts>
-    <volume>800 + 600 + 400 ml + Tasse 460 ml</volume>
+    <name>Geflügelschere</name>
+    <starts>30.09.2019</starts>
+    <ends>03.11.2019</ends>
+    <price>29,90 €</price>
+    <saving>über 25 %</saving>
   </offer>
   <offer number="5">
-    <name>Ordnungshüter</name>
-    <starts>02.09.2019</starts>
-    <ends>29.09.2019</ends>
-    <price>39,90 €</price>
-    <saving>über 32 %</saving>
-    <parts>4</parts>
-    <volume>500 ml + 1,1 + 1,7 + 2,3 l</volume>
+    <name>Trio elegante</name>
+    <starts>30.09.2019</starts>
+    <ends>03.11.2019</ends>
+    <price>34,90 €</price>
+    <parts>3</parts>
+    <volume>2,1 l + 1,4 l + 950 ml</volume>
+  </offer>
+  <offer number="6">
+    <name>Trolls Power Set</name>
+    <starts>30.09.2019</starts>
+    <ends>13.10.2019</ends>
+    <price>10,50 €</price>
+    <saving>40 %</saving>
+    <extras>nur bis 13.10.2019 reduziert</extras>
+    <parts>2</parts>
+    <dimensions>14x11,2x6,5   13x10x5   cm</dimensions>
+  </offer>
+  <offer number="7">
+    <name>Lager-Set</name>
+    <starts>30.09.2019</starts>
+    <ends>13.10.2019</ends>
+    <price>45,00 €</price>
+    <saving>im Set über 26 %</saving>
+    <extras>nur bis 13.10.2019 reduziert</extras>
+    <parts>2</parts>
   </offer>
 </offers>
