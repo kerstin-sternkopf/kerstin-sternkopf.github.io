@@ -1,59 +1,107 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Neu im Sortiment!  Ultra Pro Cornetti</name>
-    <starts>30.09.2019</starts>
-    <ends>03.11.2019</ends>
-    <price>28,90 €</price>
-    <parts>4</parts>
+    <name>Kleines Clear Collection-Set (5)</name>
+    <starts>04.11.2019</starts>
+    <ends>17.11.2019</ends>
+    <price>25,00 €</price>
+    <extras>Für die Gastgeberin zur Auswahl </extras>
+    <parts>5</parts>
+    <volume>1 x 4 l + 4 x 610 ml</volume>
   </offer>
   <offer number="2">
-    <name>Maximilian-Set</name>
-    <starts>30.09.2019</starts>
-    <ends>03.11.2019</ends>
-    <price>40,00 €</price>
-    <saving>über 23 % im Set</saving>
-    <extras>auch einzeln erhältlich</extras>
-    <parts>3</parts>
-    <volume>4,5 +2,75 +1,4 l</volume>
+    <name>Zeitgenossen-Set (4)</name>
+    <starts>04.11.2019</starts>
+    <ends>01.12.2019</ends>
+    <price>35,90 €</price>
+    <parts>4</parts>
+    <volume>1,7 l, 1,25 l, 800 ml, 320 ml </volume>
   </offer>
   <offer number="3">
-    <name>Ultra 5,7 l</name>
-    <starts>30.09.2019</starts>
-    <ends>03.11.2019</ends>
-    <price>99,90 €</price>
-    <saving>über 30 %</saving>
-    <extras>inkl. Rezeptideen</extras>
-    <volume>5,7 l</volume>
+    <name>Ultra 5,0 l Kasserolle oval</name>
+    <starts>04.11.2019</starts>
+    <ends>01.12.2019</ends>
+    <price>79,90 €</price>
+    <extras>inkl. Rezeptheft</extras>
+    <volume>5 l</volume>
   </offer>
   <offer number="4">
-    <name>Geflügelschere</name>
-    <starts>30.09.2019</starts>
-    <ends>03.11.2019</ends>
-    <price>29,90 €</price>
-    <saving>über 25 %</saving>
-  </offer>
-  <offer number="5">
-    <name>Trio elegante</name>
-    <starts>30.09.2019</starts>
-    <ends>03.11.2019</ends>
-    <price>34,90 €</price>
-    <parts>3</parts>
-    <volume>2,1 l + 1,4 l + 950 ml</volume>
-  </offer>
-  <offer number="6">
-    <name>Adrettes Duo</name>
-    <starts>21.10.2019</starts>
-    <ends>03.11.2019</ends>
-    <price>25,00 €</price>
-    <saving>11,90 €</saving>
+    <name>Back-Set</name>
+    <starts>04.11.2019</starts>
+    <ends>01.12.2019</ends>
+    <price>28,00 €</price>
+    <saving>über 26 %</saving>
     <parts>2</parts>
   </offer>
+  <offer number="5">
+    <name>Advents-Runde (2)</name>
+    <starts>04.11.2019</starts>
+    <ends>01.12.2019</ends>
+    <price>19,90 €</price>
+    <extras>Nur solange Vorrat reicht!</extras>
+    <volume>2 x 575 ml</volume>
+  </offer>
+  <offer number="6">
+    <name>Twist it</name>
+    <starts>04.11.2019</starts>
+    <ends>01.12.2019</ends>
+    <price>39,90 €</price>
+    <saving>über 20 %</saving>
+    <dimensions>Durchmesser 31,5 cm</dimensions>
+  </offer>
   <offer number="7">
-    <name>Kaffee  Go Überraschungsbeutel</name>
-    <starts>21.10.2019</starts>
-    <ends>03.11.2019</ends>
-    <price>29,90 €</price>
-    <extras>ca. 50 € Gesamtwert!!!</extras>
+    <name>Allegra-Set Gold</name>
+    <starts>04.11.2019</starts>
+    <ends>17.11.2019</ends>
+    <price>60,00 €</price>
+    <saving>im Set über 23 %</saving>
+    <extras>auch einzeln erhältlich</extras>
+    <parts>3</parts>
+    <volume>5,0 l, 3,5 l, 1,5 l</volume>
+  </offer>
+  <offer number="8">
+    <name>Allegra Gold 275 ml (2)</name>
+    <starts>04.11.2019</starts>
+    <ends>17.11.2019</ends>
+    <price>12,50 €</price>
+    <parts>2</parts>
+    <volume>2 x 275 ml</volume>
+  </offer>
+  <offer number="9">
+    <name>Allegra Gold Perle</name>
+    <starts>04.11.2019</starts>
+    <ends>17.11.2019</ends>
+    <price>16,50 €</price>
+    <dimensions>41,9 x 14,4 x 3,8 cm</dimensions>
+  </offer>
+  <offer number="10">
+    <name>Eiskönigin Set (3)</name>
+    <starts>11.11.2019</starts>
+    <ends>29.12.2019</ends>
+    <price>30,00 €</price>
+    <saving>im Set über 14%</saving>
+    <extras>auch einzeln erhältlich</extras>
+    <parts>3</parts>
+  </offer>
+  <offer number="11">
+    <name>Sandwichbox Olaf</name>
+    <starts>11.11.2019</starts>
+    <ends>29.12.2019</ends>
+    <price>11,00 €</price>
+    <dimensions>13,8 x 13,2 x 5 cm</dimensions>
+  </offer>
+  <offer number="12">
+    <name>Sandwichbox Anna  Elsa</name>
+    <starts>11.11.2019</starts>
+    <ends>29.12.2019</ends>
+    <price>11,00 €</price>
+    <dimensions>13,8 x 13,2 x 5 cm</dimensions>
+  </offer>
+  <offer number="13">
+    <name>Eiskönigin Trinkbecher</name>
+    <starts>11.11.2019</starts>
+    <ends>29.12.2019</ends>
+    <price>13,00 €</price>
+    <volume>330 ml</volume>
   </offer>
 </offers>
