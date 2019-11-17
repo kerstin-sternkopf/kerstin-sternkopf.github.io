@@ -1,15 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Kleines Clear Collection-Set (5)</name>
-    <starts>04.11.2019</starts>
-    <ends>17.11.2019</ends>
-    <price>25,00 €</price>
-    <extras>Für die Gastgeberin zur Auswahl </extras>
-    <parts>5</parts>
-    <volume>1 x 4 l + 4 x 610 ml</volume>
-  </offer>
-  <offer number="2">
     <name>Zeitgenossen-Set (4)</name>
     <starts>04.11.2019</starts>
     <ends>01.12.2019</ends>
@@ -17,7 +8,7 @@
     <parts>4</parts>
     <volume>1,7 l, 1,25 l, 800 ml, 320 ml </volume>
   </offer>
-  <offer number="3">
+  <offer number="2">
     <name>Ultra 5,0 l Kasserolle oval</name>
     <starts>04.11.2019</starts>
     <ends>01.12.2019</ends>
@@ -25,7 +16,7 @@
     <extras>inkl. Rezeptheft</extras>
     <volume>5 l</volume>
   </offer>
-  <offer number="4">
+  <offer number="3">
     <name>Back-Set</name>
     <starts>04.11.2019</starts>
     <ends>01.12.2019</ends>
@@ -33,7 +24,7 @@
     <saving>über 26 %</saving>
     <parts>2</parts>
   </offer>
-  <offer number="5">
+  <offer number="4">
     <name>Advents-Runde (2)</name>
     <starts>04.11.2019</starts>
     <ends>01.12.2019</ends>
@@ -41,7 +32,7 @@
     <extras>Nur solange Vorrat reicht!</extras>
     <volume>2 x 575 ml</volume>
   </offer>
-  <offer number="6">
+  <offer number="5">
     <name>Twist it</name>
     <starts>04.11.2019</starts>
     <ends>01.12.2019</ends>
@@ -49,7 +40,7 @@
     <saving>über 20 %</saving>
     <dimensions>Durchmesser 31,5 cm</dimensions>
   </offer>
-  <offer number="7">
+  <offer number="6">
     <name>Allegra-Set Gold</name>
     <starts>04.11.2019</starts>
     <ends>17.11.2019</ends>
@@ -59,7 +50,7 @@
     <parts>3</parts>
     <volume>5,0 l, 3,5 l, 1,5 l</volume>
   </offer>
-  <offer number="8">
+  <offer number="7">
     <name>Allegra Gold 275 ml (2)</name>
     <starts>04.11.2019</starts>
     <ends>17.11.2019</ends>
@@ -67,14 +58,14 @@
     <parts>2</parts>
     <volume>2 x 275 ml</volume>
   </offer>
-  <offer number="9">
+  <offer number="8">
     <name>Allegra Gold Perle</name>
     <starts>04.11.2019</starts>
     <ends>17.11.2019</ends>
     <price>16,50 €</price>
     <dimensions>41,9 x 14,4 x 3,8 cm</dimensions>
   </offer>
-  <offer number="10">
+  <offer number="9">
     <name>Eiskönigin Set (3)</name>
     <starts>11.11.2019</starts>
     <ends>29.12.2019</ends>
@@ -83,21 +74,21 @@
     <extras>auch einzeln erhältlich</extras>
     <parts>3</parts>
   </offer>
-  <offer number="11">
+  <offer number="10">
     <name>Sandwichbox Olaf</name>
     <starts>11.11.2019</starts>
     <ends>29.12.2019</ends>
     <price>11,00 €</price>
     <dimensions>13,8 x 13,2 x 5 cm</dimensions>
   </offer>
-  <offer number="12">
+  <offer number="11">
     <name>Sandwichbox Anna  Elsa</name>
     <starts>11.11.2019</starts>
     <ends>29.12.2019</ends>
     <price>11,00 €</price>
     <dimensions>13,8 x 13,2 x 5 cm</dimensions>
   </offer>
-  <offer number="13">
+  <offer number="12">
     <name>Eiskönigin Trinkbecher</name>
     <starts>11.11.2019</starts>
     <ends>29.12.2019</ends>
