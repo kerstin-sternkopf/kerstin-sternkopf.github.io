@@ -39,4 +39,12 @@
     <parts>2</parts>
     <volume>10 l</volume>
   </offer>
+  <offer number="6">
+    <name>Frische-Drops-Set</name>
+    <starts>30.12.2019</starts>
+    <ends>05.01.2020</ends>
+    <price>19,90 €</price>
+    <saving>50 %</saving>
+    <parts>6</parts>
+  </offer>
 </offers>
