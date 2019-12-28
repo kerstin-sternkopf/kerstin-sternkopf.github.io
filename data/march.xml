@@ -48,4 +48,56 @@
     <parts>6</parts>
     <volume>6 x 550 ml</volume>
   </offer>
+  <offer number="7">
+    <name>Mega-Max-Set</name>
+    <starts>30.12.2019</starts>
+    <ends>05.01.2020</ends>
+    <price>54,00 €</price>
+    <extras>Im Set gratis: Butterdose + Junior-Käse-Max</extras>
+    <parts>3</parts>
+  </offer>
+  <offer number="8">
+    <name>Frische-Ecke-Set (2)</name>
+    <starts>30.12.2019</starts>
+    <ends>02.02.2020</ends>
+    <price>16,90 €</price>
+    <parts>2</parts>
+    <volume>2,5 l + 1,2 l</volume>
+  </offer>
+  <offer number="9">
+    <name>Spätzle-Duo</name>
+    <starts>30.12.2019</starts>
+    <ends>02.02.2020</ends>
+    <price>21,90 €</price>
+    <extras>Im Set gratis: Spätzleria</extras>
+    <parts>2</parts>
+    <volume>3,0 l</volume>
+  </offer>
+  <offer number="10">
+    <name>Eco-Twin-Set (5)</name>
+    <starts>30.12.2019</starts>
+    <ends>02.02.2020</ends>
+    <price>19,90 €</price>
+    <parts>5</parts>
+    <volume>4 x 90 ml</volume>
+    <dimensions>Box 22,5 x 12 7 cm</dimensions>
+  </offer>
+  <offer number="11">
+    <name>Turbolino</name>
+    <starts>30.12.2019</starts>
+    <ends>02.02.2020</ends>
+    <price>35,90 €</price>
+    <saving>über 21 %</saving>
+    <extras>inkl. Rezeptideen</extras>
+    <volume>300 ml</volume>
+  </offer>
+  <offer number="12">
+    <name>Ultra 3,5 l</name>
+    <starts>30.12.2019</starts>
+    <ends>02.02.2020</ends>
+    <price>69,90 €</price>
+    <saving>über 25 %</saving>
+    <extras>inkl. Rezeptheft</extras>
+    <volume>3,5 l</volume>
+  </offer>
 </offers>
