@@ -1,45 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Ü-Beutel Elegancia</name>
-    <starts>02.12.2019</starts>
-    <ends>29.12.2019</ends>
-    <price>29,90 €</price>
-    <saving>ca 20 €</saving>
-    <volume>2,3 l</volume>
-  </offer>
-  <offer number="2">
-    <name>Elegancia-Set (4)</name>
-    <starts>02.12.2019</starts>
-    <ends>29.12.2019</ends>
-    <price>79,90 €</price>
-    <saving>über 18 %</saving>
-    <parts>4</parts>
-    <volume>4,6 l + 3,2 l + 2 x 600</volume>
-  </offer>
-  <offer number="3">
-    <name>Frische-Traum</name>
-    <starts>02.12.2019</starts>
-    <ends>29.12.2019</ends>
-    <price>29,90 €</price>
-    <parts>4</parts>
-  </offer>
-  <offer number="4">
-    <name>Clear Collection Karaffe</name>
-    <starts>02.12.2019</starts>
-    <ends>29.12.2019</ends>
-    <price>49,90 €</price>
-    <volume>1,3 l</volume>
-  </offer>
-  <offer number="5">
-    <name>Silvester-Set</name>
-    <starts>09.12.2019</starts>
-    <ends>29.12.2019</ends>
-    <price>40,00 €</price>
-    <parts>2</parts>
-    <volume>10 l</volume>
-  </offer>
-  <offer number="6">
     <name>Frische-Drops-Set</name>
     <starts>30.12.2019</starts>
     <ends>05.01.2020</ends>
@@ -48,7 +9,7 @@
     <parts>6</parts>
     <volume>6 x 550 ml</volume>
   </offer>
-  <offer number="7">
+  <offer number="2">
     <name>Mega-Max-Set</name>
     <starts>30.12.2019</starts>
     <ends>05.01.2020</ends>
@@ -56,7 +17,7 @@
     <extras>Im Set gratis: Butterdose + Junior-Käse-Max</extras>
     <parts>3</parts>
   </offer>
-  <offer number="8">
+  <offer number="3">
     <name>Frische-Ecke-Set (2)</name>
     <starts>30.12.2019</starts>
     <ends>02.02.2020</ends>
@@ -64,7 +25,7 @@
     <parts>2</parts>
     <volume>2,5 l + 1,2 l</volume>
   </offer>
-  <offer number="9">
+  <offer number="4">
     <name>Spätzle-Duo</name>
     <starts>30.12.2019</starts>
     <ends>02.02.2020</ends>
@@ -73,7 +34,7 @@
     <parts>2</parts>
     <volume>3,0 l</volume>
   </offer>
-  <offer number="10">
+  <offer number="5">
     <name>Eco-Twin-Set (5)</name>
     <starts>30.12.2019</starts>
     <ends>02.02.2020</ends>
@@ -82,7 +43,7 @@
     <volume>4 x 90 ml</volume>
     <dimensions>Box 22,5 x 12 7 cm</dimensions>
   </offer>
-  <offer number="11">
+  <offer number="6">
     <name>Turbolino</name>
     <starts>30.12.2019</starts>
     <ends>02.02.2020</ends>
@@ -91,7 +52,7 @@
     <extras>inkl. Rezeptideen</extras>
     <volume>300 ml</volume>
   </offer>
-  <offer number="12">
+  <offer number="7">
     <name>Ultra 3,5 l</name>
     <starts>30.12.2019</starts>
     <ends>02.02.2020</ends>
