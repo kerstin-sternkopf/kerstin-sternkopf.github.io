@@ -44,4 +44,57 @@
     <extras>inkl. Rezeptheft</extras>
     <volume>3,5 l</volume>
   </offer>
+  <offer number="6">
+    <name>Backstars (2)</name>
+    <starts>03.02.2020</starts>
+    <ends>16.02.2020</ends>
+    <price>22,50 €</price>
+    <saving>Shake it gratis im Set!!</saving>
+    <parts>2</parts>
+    <volume>1,25 l</volume>
+  </offer>
+  <offer number="7">
+    <name>Aufwärm-Set (3)</name>
+    <starts>03.02.2020</starts>
+    <ends>01.03.2020</ends>
+    <price>22,00 €</price>
+    <saving>MicroTup Suppentasse im Set gratis</saving>
+    <parts>3</parts>
+    <volume>2 x 600 ml + 1 x 460 ml</volume>
+  </offer>
+  <offer number="8">
+    <name>Dekozauber-Set (2)</name>
+    <starts>03.02.2020</starts>
+    <ends>01.03.2020</ends>
+    <price>24,90 €</price>
+    <saving>Neues Produkt!</saving>
+    <parts>2</parts>
+    <volume>2 x 65 ml</volume>
+  </offer>
+  <offer number="9">
+    <name>Bellevue-Set (5)</name>
+    <starts>03.02.2020</starts>
+    <ends>01.03.2020</ends>
+    <price>35,00 €</price>
+    <saving>Bellevue 980 ml gratis im Set!!</saving>
+    <parts>5</parts>
+    <volume>2 x 1,2 l, 1 x 980 ml, 2 x 450 ml</volume>
+  </offer>
+  <offer number="10">
+    <name>Ultra 1,8 l</name>
+    <starts>03.02.2020</starts>
+    <ends>01.03.2020</ends>
+    <price>58,00 €</price>
+    <saving>über 15 %</saving>
+    <volume>1,8 l</volume>
+  </offer>
+  <offer number="11">
+    <name>Aloha-Set (5)</name>
+    <starts>03.02.2020</starts>
+    <ends>01.03.2020</ends>
+    <price>55,00 €</price>
+    <saving>über 19 %</saving>
+    <parts>5</parts>
+    <volume>7,5 + 4,0 + 2,0 + 1,0 l + 450 ml</volume>
+  </offer>
 </offers>
