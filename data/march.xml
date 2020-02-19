@@ -1,59 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>Frische-Ecke-Set (2)</name>
-    <starts>30.12.2019</starts>
-    <ends>02.02.2020</ends>
-    <price>16,90 €</price>
-    <parts>2</parts>
-    <volume>2,5 l + 1,2 l</volume>
-  </offer>
-  <offer number="2">
-    <name>Spätzle-Duo</name>
-    <starts>30.12.2019</starts>
-    <ends>02.02.2020</ends>
-    <price>21,90 €</price>
-    <extras>Im Set gratis: Spätzleria</extras>
-    <parts>2</parts>
-    <volume>3,0 l</volume>
-  </offer>
-  <offer number="3">
-    <name>Eco-Twin-Set (5)</name>
-    <starts>30.12.2019</starts>
-    <ends>02.02.2020</ends>
-    <price>19,90 €</price>
-    <parts>5</parts>
-    <volume>4 x 90 ml</volume>
-    <dimensions>Box 22,5 x 12 7 cm</dimensions>
-  </offer>
-  <offer number="4">
-    <name>Turbolino</name>
-    <starts>30.12.2019</starts>
-    <ends>02.02.2020</ends>
-    <price>35,90 €</price>
-    <saving>über 21 %</saving>
-    <extras>inkl. Rezeptideen</extras>
-    <volume>300 ml</volume>
-  </offer>
-  <offer number="5">
-    <name>Ultra 3,5 l</name>
-    <starts>30.12.2019</starts>
-    <ends>02.02.2020</ends>
-    <price>69,90 €</price>
-    <saving>über 25 %</saving>
-    <extras>inkl. Rezeptheft</extras>
-    <volume>3,5 l</volume>
-  </offer>
-  <offer number="6">
-    <name>Backstars (2)</name>
-    <starts>03.02.2020</starts>
-    <ends>16.02.2020</ends>
-    <price>22,50 €</price>
-    <saving>Shake it gratis im Set!!</saving>
-    <parts>2</parts>
-    <volume>1,25 l</volume>
-  </offer>
-  <offer number="7">
     <name>Aufwärm-Set (3)</name>
     <starts>03.02.2020</starts>
     <ends>01.03.2020</ends>
@@ -62,7 +9,7 @@
     <parts>3</parts>
     <volume>2 x 600 ml + 1 x 460 ml</volume>
   </offer>
-  <offer number="8">
+  <offer number="2">
     <name>Dekozauber-Set (2)</name>
     <starts>03.02.2020</starts>
     <ends>01.03.2020</ends>
@@ -71,7 +18,7 @@
     <parts>2</parts>
     <volume>2 x 65 ml</volume>
   </offer>
-  <offer number="9">
+  <offer number="3">
     <name>Bellevue-Set (5)</name>
     <starts>03.02.2020</starts>
     <ends>01.03.2020</ends>
@@ -80,7 +27,7 @@
     <parts>5</parts>
     <volume>2 x 1,2 l, 1 x 980 ml, 2 x 450 ml</volume>
   </offer>
-  <offer number="10">
+  <offer number="4">
     <name>Ultra 1,8 l</name>
     <starts>03.02.2020</starts>
     <ends>01.03.2020</ends>
@@ -88,7 +35,7 @@
     <saving>über 15 %</saving>
     <volume>1,8 l</volume>
   </offer>
-  <offer number="11">
+  <offer number="5">
     <name>Aloha-Set (5)</name>
     <starts>03.02.2020</starts>
     <ends>01.03.2020</ends>
@@ -96,5 +43,13 @@
     <saving>über 19 %</saving>
     <parts>5</parts>
     <volume>7,5 + 4,0 + 2,0 + 1,0 l + 450 ml</volume>
+  </offer>
+  <offer number="6">
+    <name>Großes Frische-Set (5)</name>
+    <starts>17.02.2020</starts>
+    <ends>01.03.2020</ends>
+    <price>35,00 €</price>
+    <parts>5</parts>
+    <volume>1,9 l + 1,4 l + 800 ml + 500 ml + 240 ml</volume>
   </offer>
 </offers>
