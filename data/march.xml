@@ -1,36 +1,85 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <offers>
   <offer number="1">
-    <name>5 xPrinzessinen-Box + 5 x Flasche (auch einzeln erhältlich)</name>
-    <starts>02.03.2020</starts>
-    <ends>08.03.2020</ends>
-    <price>50,00 €</price>
-    <saving>ca 26 €</saving>
-    <extras>im Set gratis Silikonform</extras>
+    <name>Zauberkessel</name>
+    <starts>30.03.2020</starts>
+    <ends>12.04.2020</ends>
+    <price>10,00 €</price>
+    <saving>weit über 50 %</saving>
+    <extras>nur für Gastgerberinnen</extras>
+    <volume>1,0 l</volume>
   </offer>
   <offer number="2">
-    <name>Neues AngebotPlatz-Set</name>
-    <starts>01.03.2020</starts>
-    <ends>29.03.2020</ends>
-    <price>39,90 €</price>
-    <saving>gratis 4 Becher im Set</saving>
-    <parts>8</parts>
+    <name>Haushalts-Set (6)</name>
+    <starts>30.03.2020</starts>
+    <ends>12.04.2020</ends>
+    <price>48,40 €</price>
+    <saving>über 20 €</saving>
+    <parts>6</parts>
   </offer>
   <offer number="3">
-    <name>Fenster-Trio</name>
-    <starts>01.03.2020</starts>
-    <ends>29.03.2020</ends>
-    <price>39,90 €</price>
-    <parts>3</parts>
-    <volume>3 x 1,25 l</volume>
+    <name>Easy-Mixx</name>
+    <starts>30.03.2020</starts>
+    <ends>03.05.2020</ends>
+    <price>49,90 €</price>
+    <extras>NEU im Sortiment zum Kennenlernpreis</extras>
+    <volume>1,25 l</volume>
   </offer>
   <offer number="4">
-    <name>Cleveres Pausen-Duo</name>
-    <starts>01.03.2020</starts>
-    <ends>29.03.2020</ends>
-    <price>15,00 €</price>
-    <saving>15 € bei Tauschaktion</saving>
+    <name>Rucki Zucki</name>
+    <starts>30.03.2020</starts>
+    <ends>03.05.2020</ends>
+    <price>19,90 €</price>
+    <extras>Endlich wieder im Sortiment!</extras>
+    <dimensions>14,5 cm</dimensions>
+  </offer>
+  <offer number="5">
+    <name>Maximilian-Set (5)</name>
+    <starts>30.03.2020</starts>
+    <ends>03.05.2020</ends>
+    <price>70,00 €</price>
+    <saving>ca. 29,90 €</saving>
+    <extras>auch einzeln erhältlich</extras>
+    <parts>5</parts>
+    <volume>10,0 + 7,5 + 4,5 + 2,75 + 1,4 l</volume>
+  </offer>
+  <offer number="6">
+    <name>Top-Schaber-Set (2)</name>
+    <starts>30.03.2020</starts>
+    <ends>03.05.2020</ends>
+    <price>22,90 €</price>
+    <saving>im Set über 25 %</saving>
     <parts>2</parts>
-    <volume>2 x 550 ml</volume>
+  </offer>
+  <offer number="7">
+    <name>Frozen-Set oder Anna Elsa-Sett</name>
+    <starts>06.04.2020</starts>
+    <ends>03.05.2020</ends>
+    <price>je 11,00 €</price>
+    <saving>je 5 €</saving>
+    <parts>je 2</parts>
+  </offer>
+  <offer number="8">
+    <name>Pausenbox Olaf</name>
+    <starts>06.04.2020</starts>
+    <ends>03.05.2020</ends>
+    <price>8,00 €</price>
+    <saving>3 €</saving>
+  </offer>
+  <offer number="9">
+    <name>Pausenbox Anna Elsa</name>
+    <starts>06.04.2020</starts>
+    <ends>03.05.2020</ends>
+    <price>8,00 €</price>
+    <saving>3 €</saving>
+  </offer>
+  <offer number="10">
+    <name>Frühstücks-Set (5)</name>
+    <starts>13.04.2020</starts>
+    <ends>26.04.2020</ends>
+    <price>45,00 €</price>
+    <extras>auch einzeln erhältlich</extras>
+    <parts>5</parts>
+    <volume>1 x 5,0 l + 4 x 400 ml</volume>
   </offer>
 </offers>
